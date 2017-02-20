@@ -28,7 +28,7 @@ title: Home
       <footer class="post_meta">
      {% if post.layout == "microblog" %}
      <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
-
+     {% endif %}
         {% if post.location %}
         <span class="author-location">
           <div data-icon="ei-location"></div>
