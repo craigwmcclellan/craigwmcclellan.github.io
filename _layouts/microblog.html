@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+
+  <div class="article-content" itemprop="articleBody">
+    {{ page.content }}
+  </div>
+
+  <footer class="article-footer">
+
+  {% include share.html %}
+
+  <hr/>
+
+  {% include author.html %}
+
+  </footer>
+
+  {% include dq.html %}
+
+</article>
