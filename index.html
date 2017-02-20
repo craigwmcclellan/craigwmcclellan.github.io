@@ -22,13 +22,14 @@ title: Home
           {% else %}
           {{ post.excerpt }}
           {% endif %} 
+          {% if post.layout == "microblog" %}
+          <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
+          {% endif %}
           <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
         </p> 
       </div>
       <footer class="post_meta">
-     {% if post.layout == "microblog" %}
-     <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
-     {% endif %}
+
         {% if post.location %}
         <span class="author-location">
           <div data-icon="ei-location"></div>
