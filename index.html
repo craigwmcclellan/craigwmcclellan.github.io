@@ -23,7 +23,7 @@ title: Home
           {{ post.excerpt }}
           {% endif %} 
           {% if post.layout == "microblog" %}
-          <time class="post_date"><a href="{{ post.url | prepend: site.basurl }}">{{ post.date | date: "%d %B %Y, %A" }}</a></time>
+          <time class="post_date"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%d %B %Y, %A" }}</a></time>
           {% else %}
           <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
           {% endif %}
@@ -58,7 +58,9 @@ title: Home
           <a href=""><data data-icon="ei-arrow-right"></data>Read this article  </a>
         </p-->
       </footer>
+      {% if post.layout == "post" %}
       <hr/>
+      {% endif %}
     </article>
     {% endfor %}
 
