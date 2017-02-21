@@ -181,9 +181,7 @@ input#menu-toggle {
 }
 
 .post-list {
-  {% if post.layout == "microblog" %}
-  padding-bottom: 70px
-  {% endif %}
+
 }
 
 .post_header {
