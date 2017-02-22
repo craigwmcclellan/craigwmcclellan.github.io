@@ -58,8 +58,10 @@ title: Home
           <a href=""><data data-icon="ei-arrow-right"></data>Read this article  </a>
         </p-->
       </footer>
-      {% if post.layout == "post" %}
-      <hr/>
+      {% if post.layout == "microblog" %}
+        <p>
+      {% else %}
+       <hr/>
       {% endif %}
     </article>
     {% endfor %}
