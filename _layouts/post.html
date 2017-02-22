@@ -11,12 +11,6 @@ layout: default
   <div class="article-content" itemprop="articleBody">
     {{ page.content }}
   </div>
-  
-  {% if site.previous.layout == "post" %}
-    <a href="{{site.previous}}">{{site.previous.title}}</a>
-  {% elsif site.previous.layout =="microblog" %}
-    <a href="{{site.previous}}>{{site.previous.date}}</a>
-  {% endif %}
 
   <footer class="article-footer">
 
