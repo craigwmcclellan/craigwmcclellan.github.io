@@ -14,7 +14,7 @@ layout: default
   
   {% if site.previous.layout == "post" %}
     <a href="{{site.previous}}">{{site.previous.title}}</a>
-  {% elseif site.previous.layout =="microblog" %}
+  {% elsif site.previous.layout =="microblog" %}
     <a href="{{site.previous}}>{{site.previous.date}}</a>
   {% endif %}
 
