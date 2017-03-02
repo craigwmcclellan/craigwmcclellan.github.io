@@ -1,13 +1,22 @@
-<div>
-<span style= "postnav.left">{{% if page.previous.layout == "post" %}}
-   <a href="{{ page.previous.url | prepend: site.baseurl }}">{{ page.previous.title}}</a>
-{{% else %}}
-   <a href="{{ page.previous.url | prepend: site.baseurl }}" style="text-align: left;">Previous Post</a>
-{{% endif %}}</span>
-<span style= "postnav.right">{{% if page.next.layout == "post" %}}
-   <a href="{{ page.next.url | prepend: site.baseurl }}">{{ page.next.title }}</a>
-{{% else %}}
-   <a href="{{ page.next.url | prepend: site.baseurl }}" style="text-align: right;">Next Post</a>
-{{% endif %}}</span>
-
-</div>
+{% if page.previous %}
+    {% assign previous = page.previous %}
+    {{% if previous.layout == "post" %}}
+      {% assign prevtitle = previous.title %}
+    {{% else %}}
+      {% assign prevtitle = "Previous Post %}
+    {{% endif %}}  
+ {% endif %}
+    <div class="left">
+        <a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="{% prevtitle %}">←{% prevtitle %}</a>
+      </div>
+{% if page.next %}
+    {% assign next = page.next %}
+    {{% if next.layout == "post" %}}
+      {% assign tnextitle = next.title %}
+    {{% else %}}
+      {% assign nexttitle = "Next Post %}
+    {{% endif %}}  
+ {% endif %}
+    <div class="right">
+        <a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="{% nexttitle %}">{% nexttitle %}</a>
+        </div>        
