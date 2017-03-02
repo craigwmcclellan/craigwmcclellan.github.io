@@ -1,4 +1,4 @@
 <div>
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }} style="text-align: left;">{{ page.previous.title }}</a>
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }} style="text-align: right;">{{ page.next.title }}</a>
+   <a href="{{ page.previous.url | prepend: site.baseurl }}" style="text-align: left;">{{ page.previous.title }}</a>
+   <a href="{{ page.next.url | prepend: site.baseurl }}" style="text-align: right;">{{ page.next.title }}</a>
 </div>
