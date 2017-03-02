@@ -1,12 +1,12 @@
 <div>
-{{% if post.previous.layout == "post" %}}
+{{% if page.previous.layout == "post" %}}
    <a href="{{ page.previous.url | prepend: site.baseurl }}" style="text-align: left;">{{ page.previous.title}}</a>
-{{% elsif post.previous.layout == "microblog" %}}
+{{% else %}}
    <a href="{{ page.previous.url | prepend: site.baseurl }}" style="text-align: left;">Previous Post</a>
 {{% endif %}}
-{{% if post.next.layout == "post" %}}
+{{% if page.next.layout == "post" %}}
    <a href="{{ page.next.url | prepend: site.baseurl }}" style="text-align: right;">{{ page.next.title }}</a>
-{{% elsif page.next.layout == "microblog" %}}
+{{% else %}}
    <a href="{{ page.next.url | prepend: site.baseurl }}" style="text-align: right;">Next Post</a>
 {{% endif %}}
 
