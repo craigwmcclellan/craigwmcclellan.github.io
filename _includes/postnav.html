@@ -1,13 +1,13 @@
 <div>
-{{% if page.previous.layout == "post" %}}
-   <a href="{{ page.previous.url | prepend: site.baseurl }}" style="text-align: left;">{{ page.previous.title}}</a>
+<span style= "postnav.left">{{% if page.previous.layout == "post" %}}
+   <a href="{{ page.previous.url | prepend: site.baseurl }}">{{ page.previous.title}}</a>
 {{% else %}}
    <a href="{{ page.previous.url | prepend: site.baseurl }}" style="text-align: left;">Previous Post</a>
-{{% endif %}}
-{{% if page.next.layout == "post" %}}
-   <a href="{{ page.next.url | prepend: site.baseurl }}" style="text-align: right;">{{ page.next.title }}</a>
+{{% endif %}}</span>
+<span style= "postnav.right">{{% if page.next.layout == "post" %}}
+   <a href="{{ page.next.url | prepend: site.baseurl }}">{{ page.next.title }}</a>
 {{% else %}}
    <a href="{{ page.next.url | prepend: site.baseurl }}" style="text-align: right;">Next Post</a>
-{{% endif %}}
+{{% endif %}}</span>
 
 </div>
