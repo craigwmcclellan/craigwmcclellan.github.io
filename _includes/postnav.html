@@ -1,17 +1,13 @@
 <div>
-   <a href="{{ page.previous.url | prepend: site.baseurl }}" style="text-align: left;">
-   {{% if page.previous.layout =+ "post" %}}
-      {{ page.previous.title }}
-   {{% elsif page.previous.layout == "microblog" %}}
-      Previous Post
-   {{% endif %}}   
-   </a>
-  
-   <a href="{{ page.next.url | prepend: site.baseurl }}" style="text-align: right;">
-   {{% if page.next.layout == "post" %}}
-      {{ page.next.title }}
-   {{% elsif page.next.layout == "microblog" %}}
-      Next Post
-   {{% endif %}}
-   </a>
+{{% if page.previous.layout == "post" %}}
+   <a href="{{ page.previous.url | prepend: site.baseurl }}" style="text-align: left;">{{ page.previous.title}}</a>
+{{% elsif page.previous.layout == "microblog" %}}
+   <a href="{{ page.previous.url | prepend: site.baseurl }}" style="text-align: left;">Previous Post</a>
+{{% endif %}}
+{{% if page.next.layout == "post" %}}
+   <a href="{{ page.next.url | prepend: site.baseurl }}" style="text-align: right;">{{ page.next.title }}</a>
+{{% elsif page.next.layout == "microblog" %}}
+   <a href="{{ page.next.url | prepend: site.baseurl }}" style="text-align: right;">Next Post</a>
+{{% endif %}}
+
 </div>
