@@ -1,4 +1,4 @@
-{% if page.previous %}
+{% if page.previous != nil %}
     {% assign previous = page.previous %}
     {% if previous.layout == "post" %}
       {% assign previousTitle = previous.title %}
@@ -6,7 +6,7 @@
       {% assign previousTitle = "Previous Post" %}
     {% endif %}
 {% endif %}
-{% if page.next %}
+{% if page.next != nil %}
    {% assign next = page.next %}
    {% if next.layout == "post" %}
      {% assign nexttitle = next.title %}
