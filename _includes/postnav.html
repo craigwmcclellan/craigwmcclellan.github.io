@@ -7,7 +7,7 @@
     {{% endif %}}  
  {% endif %}
 <div class="left">
-  <a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="{% prevtitle %}">←{% prevtitle %}</a>
+  <a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="{% prevtitle %}">{% prevtitle %}</a>
  </div>
 {% if page.next %}
     {% assign next = page.next %}
