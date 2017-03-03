@@ -1,18 +1,18 @@
 {% if page.previous %}
     {% assign previous = page.previous %}
-    {{% if previous.layout == "post" %}}
+    {% if previous.layout == "post" %}
       {% assign previousTitle = previous.title %}
     {{% else %}}
       {% assign previousTitle = "Previous Post" %}
-    {{% endif %}}  
+    {% endif %}
 {% endif %}
 {% if page.next %}
    {% assign next = page.next %}
-   {{% if next.layout == "post" %}}
+   {% if next.layout == "post" %}
      {% assign nexttitle = next.title %}
    	{{% else %}}
      {% assign nexttitle = "Next Post %}
-   	{{% endif %}}  
+   	{% endif %}
 {% endif %}
 <div>
 <span class="postnav.left"><a href="{{site.baseurl}}{{previous.url}}" title="{{ prevtitle }}">{{ prevtitle }}</a></span>
