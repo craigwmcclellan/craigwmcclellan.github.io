@@ -6,17 +6,17 @@
       {% assign prevtitle = "Previous Post" %}
     {{% endif %}}  
  {% endif %}
-    <div class="left">
-        <a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="{% prevtitle %}">←{% prevtitle %}</a>
-      </div>
+<div class="left">
+  <a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="{% prevtitle %}">←{% prevtitle %}</a>
+ </div>
 {% if page.next %}
     {% assign next = page.next %}
     {{% if next.layout == "post" %}}
-      {% assign tnextitle = next.title %}
+      {% assign nexttitle = next.title %}
     {{% else %}}
       {% assign nexttitle = "Next Post %}
     {{% endif %}}  
- {% endif %}
-    <div class="right">
-        <a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="{% nexttitle %}">{% nexttitle %}</a>
-        </div>        
+{% endif %}
+<div class="right">
+  <a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="{% nexttitle %}">{% nexttitle %}</a>
+</div>        
