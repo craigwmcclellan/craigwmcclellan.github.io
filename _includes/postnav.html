@@ -5,15 +5,16 @@
     {{% else %}}
       {% assign prevtitle = "Previous Post" %}
     {{% endif %}}  
- {% endif %}
+{% endif %}
 {% if page.next %}
    {% assign next = page.next %}
    {{% if next.layout == "post" %}}
      {% assign nexttitle = next.title %}
-   {{% else %}}
+   	{{% else %}}
      {% assign nexttitle = "Next Post %}
-   {{% endif %}}  
+   	{{% endif %}}  
 {% endif %}
-<span class="postnav.left"><a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="{{ prevtitle }}">{{ prevtitle }}</a></span>
-<span class="postnav.right"><a class="equalize" href="{{site.baseurl}}{{previous.url}}" title="{{ nexttitle }}">{{ nexttitle }}</a></span>
+<div>
+<span class="postnav.left"><a href="{{site.baseurl}}{{previous.url}}" title="{{ prevtitle }}">{{ prevtitle }}</a></span>
+<span class="postnav.right"><a href="{{site.baseurl}}{{previous.url}}" title="{{ nexttitle }}">{{ nexttitle }}</a></span>
 </div>        
