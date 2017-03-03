@@ -1,7 +1,7 @@
 {% if page.previous.layout = "microblog" %}
 	{% assign previousTitle = "Previous Post" %}
 	{% else %}
-		{% assign previousTitle = {{page.previous.title}}
+		{% assign previousTitle = {{page.previous} %}
 	{% endif %}
 {% if page.next.layout = "microblog" %}
 	{% assign nextTitle = "Next Post" %}
