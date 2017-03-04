@@ -11,7 +11,7 @@
   	{% if page.next.layout == "microblog" %}
   		{% assign nextText = 'Next Post' %}
   	{% else %}
-  		{% assign nextText = page.next.url %}
+  		{% assign nextText = page.next.title %}
   	{% endif %}
     <a class="next" href="{{page.next.url}}">{{nextText}} &raquo;</a>
   {% endif %}
