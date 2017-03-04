@@ -1,8 +1,18 @@
 <div class="PageNavigation">
   {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  	{% if page.previous.layout == "microblog" %}
+  		{% assign preText = 'Previous Post' %}
+  	{% else %}
+  		{% assign preText = page.previous.url %}
+  	{% endif %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{preText}}</a>
   {% endif %}
   {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  	{% if page.next.layout == "microblog" %}
+  		{% assign nextText = 'Next Post' %}
+  	{% else %}
+  		{% assign nextText = page.next.url %}
+  	{% endif %}
+    <a class="next" href="{{page.next.url}}">{{nextText}} &raquo;</a>
   {% endif %}
 </div>
