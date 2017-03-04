@@ -3,7 +3,7 @@
   	{% if page.previous.layout == "microblog" %}
   		{% assign preText = 'Previous Post' %}
   	{% else %}
-  		{% assign preText = page.previous.url %}
+  		{% assign preText = page.previous.title %}
   	{% endif %}
     <a class="prev" href="{{page.previous.url}}">&laquo; {{preText}}</a>
   {% endif %}
