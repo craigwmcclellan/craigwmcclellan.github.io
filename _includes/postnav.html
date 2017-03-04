@@ -1,12 +1,12 @@
 {% if page.previous.layout = "microblog" %}
 	{% assign previousTitle = 'Previous Post' %}
 	{% else %}
-		{% assign previousTitle = {{page.previous} %}
+		{% assign previousTitle = page.previous.title %}
 	{% endif %}
 {% if page.next.layout = "microblog" %}
 	{% assign nextTitle = 'Next Post' %}
 	{% else %}
-		{% assign nextTitle = {{page.next.title}} %}
+		{% assign nextTitle = page.next.title %}
 	{% endif %}
 
 <div class="PageNavigation">
