@@ -1,4 +1,8 @@
-# Subscribe
+---
+layout: page
+title: Subscribe
+permalink: /subscribe/
+---
 
 Subscribing to most blogs is easy. You decide you want to follow, then add the RSS feed to your feed reader of choice. Done. 
 
