@@ -10,6 +10,6 @@ But with microblog posts here mixed with longer content, you may not want me fil
 
 - If you like me a lot and want to subscribe to everything coming through here, [this is the feed for you]({{ "/feed.xml" | prepend: site.baseurl }}).
 - If you're just interested in microblog posts, [subscribe here]({{ "/feed.microblog.xml" | prepend: site.baseurl }}).
-- If you just want longer content (aka content longer than 280 characters), [this feed is for you]({{ "/feed.fullposts.xml" | prepend: site.baseurl }}). 
+- If you just want longer content (aka content longer than 280 characters), [this feed is for you]({{ "/feed.posts.xml" | prepend: site.baseurl }}). 
 
 Enjoy!
