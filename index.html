@@ -9,11 +9,16 @@ title: Home
     {% for post in site.posts limit:5%}
 
     <article class="post_card post">
-    {% if post.layout != "microblog" %}
+    {% if post.layout == "posts" %}
       <header class="post_header">
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
         <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
       </header>
+      {% elsif post.layout =="linkpost" %}
+    	  <header class="post_header">
+        	<h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}&#8594;</a></h2>
+        	<time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
+      	  </header>
       {% endif %}
       <div class="post_excerpt">
         <p>
