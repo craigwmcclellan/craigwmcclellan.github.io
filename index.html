@@ -9,7 +9,7 @@ title: Home
     {% for post in site.posts limit:5%}
 
     <article class="post_card post">
-    {% if post.layout == "post" %}
+    {% if post.layout != "microblog" %}
       <header class="post_header">
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
         <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
