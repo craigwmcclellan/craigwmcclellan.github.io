@@ -15,7 +15,7 @@ layout: null
       <item>
         {% if post.layout == "linkedpost" %}
 			<title>{{ post.title | xml_escape }} &#8594;</title>
-			{% elseif post.layout == "post" %}
+			{% elsif post.layout == "post" %}
 			<title>{{ post.title | xml_escape }}</title>
 		{% endif %}
         <description>{{ post.content | xml_escape }}</description>
