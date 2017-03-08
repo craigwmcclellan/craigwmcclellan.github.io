@@ -14,11 +14,11 @@ title: Home
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
         <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
       </header>
-      {% elsif post.layout == "linkedpost" %}
-    	  <header class="post_header">
-        	<h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}} &#8594;</a></h2>
-        	<time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
-      	  </header>
+    {% elsif post.layout == "linkedpost" %}
+       <header class="post_header">
+         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}} &#8594;</a></h2>
+        <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
+      	</header>
       {% endif %}
       <div class="post_excerpt">
         <p>
