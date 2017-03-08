@@ -7,4 +7,4 @@ category: posts
 
 > I think it was getting my Apple Pencil that eventually tipped the balance. When I first got it, I was using it to create my lesson materials, but when I displayed them on the smart board, the only option for marking up and annotating was to use the ‘smart ink’ function on my PC. This felt buggy and clumsy compared to the precision I had when using my Apple Pencil.
 
-Testing
+Testing 123
