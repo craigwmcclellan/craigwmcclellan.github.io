@@ -15,8 +15,6 @@ layout: null
       <item>
         {% if post.layout == "linkedpost" %}
 			<title>{{ post.title | xml_escape }} &#8594;</title>
-		{% elsif post.layout == "post" %}
-			<title>{{ post.title | xml_escape }}</title>
 		{% endif %}
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
