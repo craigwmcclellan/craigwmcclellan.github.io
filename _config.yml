@@ -7,15 +7,13 @@
 
 # Site settings
 title: Craig McClellan
-email: your-email@domain.com
+email: craig@craigmcclellan.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal blog and microblog of Craig McClellan, teacher and nerd in Nashville, TN.
 baseurl: # the subpath of your site, e.g. /blog
-url: "http://wildflame.me" # the base hostname & protocol for your site
-twitter_username: Taffyer 
-github_username:  wild-flame 
+url: "http://craigmcclellan.com" # the base hostname & protocol for your site
+twitter_username: craigmcclellan
+github_username:  craigwmcclellan
 
 # Build settings
 markdown: kramdown

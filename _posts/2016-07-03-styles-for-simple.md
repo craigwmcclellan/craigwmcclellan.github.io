@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Styles at a glance
-categories: fullposts
+categories: posts
 description: Simple is a beautiful but functional jekyll theme. The font-type setting looks really good when writers use CJK mixed with English.
 ---
 
