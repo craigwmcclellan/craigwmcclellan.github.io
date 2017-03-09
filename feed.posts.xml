@@ -9,7 +9,11 @@
 		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
 		{% for post in site.categories.posts limit:10 %}
 			<item>
-				<title>{{ post.title | xml_escape }}</title>
+				{% if post.layout == "post" %}
+					<title>{{ post.title | xml_escape }}</title>
+				{% elsif post.layout == "linkedpost" %}
+					<title>{{ post.title | xml_escape }} &#8594;</title>
+				{% endif %}
 				{% if post.excerpt %}
 					<description>{{ post.excerpt | xml_escape }}</description>
 				{% else %}
