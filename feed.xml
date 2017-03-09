@@ -13,7 +13,7 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts limit:10 %}
       <item>
-        {% if post.layout == "post" %}
+      	{% if post.layout == "post" %}
 			<title>{{ post.title | xml_escape }}</title>
 		{% elsif post.layout == "linkedpost" %}
 			<title>{{ post.title | xml_escape }} &#8594;</title>
