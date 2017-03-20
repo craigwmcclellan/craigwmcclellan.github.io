@@ -14,12 +14,17 @@ title: Archive
       <h2>{{ category | first }}</h2>
     </div>
     {% for post in category.last %}
-
-    <div class="post_title">
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
-      <span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
-    </div>
-
+		{% if post.category == "posts" %}
+    		<div class="post_title">
+      		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+      		<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
+    		</div>
+		{% else %}
+    		<div class="post_title">
+      		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.content }}</a>
+      		<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
+    		</div>
+    	{% endif %}
     {% endfor %}
 
     {% endfor %}
