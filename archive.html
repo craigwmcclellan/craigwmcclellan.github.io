@@ -5,35 +5,34 @@ title: Archive
 
 <div>
 
-  <h2>Archive</h2>
+	<h2>Archive</h2>
+	
+	<section class="archive_list">
+		<div class="category-name">
+			<h2>Posts</h2>
+		</div>
+		{% for post in category.posts %}
+		
+		<div class="post_title">
+			<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
+		</div>
+		{% endfor %}
+		
+		<div class="catgory-name">
+			<h2>Microblog<h2>
+		</div>
+		{% for post in category.microblog %}
+		
+		<div class="post_title">
+			<a href="{{ post.url | prepend: site.basurl }}">{{ post.excerpt }}</a>
+			<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
+		</div>
+		{% endfor %}
 
-  <section class="archive_list">
-    {% for category in site.categories %}
-
-    <div class="category-name">
-      <h2>{{ category | first }}</h2>
-    </div>
-    {% for post in category.last %}
-		{% if post.categories == "posts" %}
-    		<div class="post_title">
-      		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      		<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
-    		</div>
-		{% else %}
-    		<div class="post_title">
-      		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.excerpt }}</a>
-      		<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
-    		</div>
-    	{% endif %}
-    {% endfor %}
-
-    {% endfor %}
-
-  </section>
-
-  <footer class="article-footer" mar>
-    {% include author.html %}
-  </footer>
+	</section>
+	
+	<footer class="article-footer" mar>
+		{% include author.html %}
+	</footer>
 </div>
-
-
