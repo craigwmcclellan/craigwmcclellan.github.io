@@ -22,7 +22,7 @@ title: Home
       {% endif %}
       <div class="post_excerpt">
         <p>
-          {{ post.content }}
+          {{ post.excerpt }}
           {% if post.layout == "microblog" %}
           <time class="post_date"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%d %B %Y, %A" }} » </a></time>
           {% else %}
