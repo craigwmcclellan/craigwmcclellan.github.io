@@ -21,7 +21,7 @@ title: Archive
     		</div>
 		{% else %}
     		<div class="post_title">
-      		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.excerpt }}</a>
+      		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.description }}</a>
       		<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
     		</div>
     	{% endif %}
