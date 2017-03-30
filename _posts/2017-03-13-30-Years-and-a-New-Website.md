@@ -2,6 +2,7 @@
 title: 30 Years and a New Website
 layout: post
 categories: posts
+date: 2017-03-13
 ---
 
 Today is my 30th birthday. I think there is a cultural tendency for people to get freaked out by birthdays ending in zeroes, and I get that. But I'm actually doing really well today. While my life isn't perfect by any means, it is great.
