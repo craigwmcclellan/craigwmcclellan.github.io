@@ -6,7 +6,7 @@ date: 2017-04-23 21:38:40 -0500
 ---
 
 
-No, I’m not referring to [Apple’s 2010 Keynote ](https://www.youtube.com/watch?v=klM4NmB_CTY) introducing the MacBook Air and OS X Lion after being focused on the iPad and iPhone for much of 2010. But I thought it was a fitting title since after a year of working from an iPad, I have returned to the Mac.
+No, I’m not referring to [Apple’s 2010 Keynote](https://www.youtube.com/watch?v=klM4NmB_CTY) introducing the MacBook Air and OS X Lion after being focused on the iPad and iPhone for much of 2010. But I thought it was a fitting title since after a year of working from an iPad, I have returned to the Mac.
 
 Begrudgingly.
 
