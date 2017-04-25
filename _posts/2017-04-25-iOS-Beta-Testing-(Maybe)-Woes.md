@@ -19,3 +19,5 @@ I also took the time to layout my home screen in a different way after listening
 ![](/assets/img/4-25-homescreens.png)
 
 All of this to say, if you have any issues with your Smart Keyboard or device in general, resetting your iPad may do the trick. With your purchased apps in the App Store already, and most of your data in the cloud, it shouldn't be a difficult process.
+
+*Update: After a few hours of usage, my Smart Keyboard has stopped working again.*
