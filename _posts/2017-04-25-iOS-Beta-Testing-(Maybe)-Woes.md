@@ -12,7 +12,7 @@ The latest issue I've had has been with the Smart Keyboard cover and my lock scr
 
 I kept updated beta builds would fix the issue, but unfortunately, even yesterday's latest release did little to solve the problem. In fact, this morning my iPad started being so slow and unresponsive on simple things like opening the settings app that I decided to nuke and pave the whole device...with one caveat. I couldn't revert back to the public iOS 10.3.1.
 
-Fortunately, this reset has solved my problem (so far). My iPad is running faster than it has in a long time. I'm curious if this was a result of the restore from iCloud I did after [my wife borrowed my iPad for a week](https://theclassnerd.com/the-singlepad-lifestyle-6009b2595f84).
+Fortunately, this reset has solved my problem (so far). My iPad is running faster than it has in a long time. I'm curious if this was a result of the restore from iCloud I did after [my wife borrowed my iPad for a week](https://theclassnerd.com/the-singlepad-lifestyle-6009b2595f84) instead of a beta issue. Or maybe it's a combination of both.
 
 I also took the time to layout my home screen in a different way after listening to [yesterday's episode of AppStories](https://overcast.fm/+I5Cn4AmVs). It'll be interesting to see if I like this, or I go back to my old layout.
 
