@@ -1,0 +1,12 @@
+---
+layout: microblog
+categories: microblog
+excerpt: Image Test 2
+
+<img src="http://craigmcclellan.com/assets/img/Test-Image-2.jpg" width="400">
+date: 2017-04-29 10:07:28 -0500
+---
+
+Image Test 2
+
+<img src="http://craigmcclellan.com/assets/img/Test-Image-2.jpg" width="400">
