@@ -1,12 +1,10 @@
 ---
-title: Dear Teacher: What To Do When You Feel Like a Failure - Teaching to Inspire with Jennifer Findley
+title: Dear Teacher: What To Do When You Feel Like a Failure
 date: 2017-05-02 14:57:08 -0500
 layout: linkedpost
 categories: posts
 link: http://teachingtoinspire.com/2017/04/dear-teacher-what-to-do-when-you-feel-like-a-failure.html
 ---
-
-
 
 Jennifer Findley, writing for Teaching to Inspire
 
