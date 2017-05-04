@@ -1,6 +1,7 @@
 ---
 layout: microblog
 categories: microblog
+excerpt: Midnight Blue
 date: 2017-04-30 14:05:04 -0500
 ---
 
