@@ -10,9 +10,9 @@ title: Archive
   <section class="archive_list">
 
     <div class="category-name">
-      <h2>{{ category | posts }}</h2>
+      <h2>Posts</h2>
     </div>
-    {% for post in category.posts %}
+    {% for post in categories.posts %}
     	<div class="post_title">
       	<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       	<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
@@ -20,9 +20,9 @@ title: Archive
 	{% endfor %}
 
 	<div class="category-name">
-      <h2>{{ category | microblog }}</h2>
+      <h2>Microblog</h2>
     </div>
-    {% for post in category.microblog %}
+    {% for post in categories.microblog %}
     	<div class="post_title">
       	<a href="{{ post.url | prepend: site.baseurl }}">{{ post.excerpt }}</a>
       	<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
