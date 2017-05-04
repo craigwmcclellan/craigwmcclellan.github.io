@@ -13,8 +13,8 @@ title: Archive
       <h2>Posts</h2>
     </div>
     {% for post in site.categories.posts %}
-    	<div class="post_title">
-      	<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		<div class="post_title">
+      	<a href="{{ post.url }}">{{ post.title }}</a>
       	<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
     	</div>
 	{% endfor %}
@@ -24,7 +24,7 @@ title: Archive
     </div>
     {% for post in site.categories.microblog %}
     	<div class="post_title">
-      	<a href="{{ post.url | prepend: site.baseurl }}">{{ post.excerpt }}</a>
+      	<a href="{{ post.url }}">{{ post.excerpt }}</a>
       	<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
     	</div>
 	{% endfor %}
