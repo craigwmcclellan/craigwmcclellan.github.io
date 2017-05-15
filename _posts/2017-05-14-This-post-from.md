@@ -1,9 +1,7 @@
 ---
 layout: microblog
 categories: microblog
-excerpt: This post from my wife shows exactly why she's such an amazing mom to our girls. On a day where she could easily sit back and let it be about her, she is thinking about and praying for our girls' bio mom.
-
-Parenting with you is a constant blessing love. Thanks for being the best mom to our girls. 
+excerpt: This post from my wife shows exactly why she's such an amazing mom to our girls. On a day where she could easily sit back and let it be about her, she is thinking about and praying for our girls' bio mom. Parenting with you is a constant blessing love. Thanks for being the best mom to our girls. 
 date: 2017-05-14 11:52:48 -0500
 ---
 
