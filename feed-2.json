@@ -14,7 +14,7 @@ permalink: feed-2.json
     "expired": false,
     "items": [
 {% for post in site.posts %}
-	{% if page.categories == "microblog" %}
+	{% if page.category == "microblog" %}
         {
             "id": "{{ post.id }}",
             "title":
