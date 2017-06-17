@@ -26,7 +26,7 @@ permalink: feed-2.json
 	{% else %}
 		{
             "id": "{{ post.id }}",
-            "title":
+            "title": {{ post.title | smartify | jsonify }},
             "content_html": {{ post.content | jsonify }},
             "url": "{{ site.url }}{{ post.url }}",
             "external_url": {{ page.link }}
