@@ -1,0 +1,48 @@
+highlighter: "rouge"
+# - markdown: "kramdown"
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+
+plugins:
+  - jekyll-sitemap
+
+title: "Craig McClellan"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/craigmcclellan\">@craigmcclellan on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/craigmcclellan\">@craigmcclellan on Micro.blog</a>."
+baseurl: ""
+url: "http://craigmcclellan.com"
+markdown: "kramdown"
+username: "craigmcclellan"
+microblog_user: "craigmcclellan"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Craig McClellan"
+name: "Craig McClellan"
+gravatar_hash: "8f1684ab97db4b61e9bdb0e756136a32"
+avatar: "https://micro.blog/craigmcclellan/avatar.jpg"
+full_name: "Craig McClellan"
+bio: ""
+twitter_username: "craigmcclellan"
+github_username: "craigwmcclellan"
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Indiana-Starke"
+site_id: "1533"
+gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Craig McClellan"
