@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<header class="masthead">
+  <h1 class="masthead-title--small">
+    <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+  </h1>
+</header>
+<div class="content post h-entry">
+	{% if page.microblog == false %}
+		<h1 class="page-title">{{ page.title }}</h1>
+	{% endif %}
+  <div class="post-date">
+    <time class="dt-published" datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
+  </div>
+  <div class="e-content">
+  {{ content }}
+  </div>
+</div>
