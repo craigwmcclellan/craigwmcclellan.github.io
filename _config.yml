@@ -1,22 +1,27 @@
-highlighter: "rouge"
-# - markdown: "kramdown"
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
 
+# - markdown: kramdown
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
 defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-
-plugins:
-  - jekyll-sitemap
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
 
 title: "Craig McClellan"
 tagline: ""
