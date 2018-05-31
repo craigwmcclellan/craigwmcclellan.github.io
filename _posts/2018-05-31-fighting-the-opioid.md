@@ -5,7 +5,7 @@ audio:
 date: 2018-05-31 10:56:07 -0500
 guid: http://craigmcclellan.micro.blog/2018/05/31/fighting-the-opioid.html
 ---
-[Fighting the opioid and foster crisis by supporting families - TheHill](http://thehill.com/blogs/congress-blog/politics/390026-fighting-the-opioid-and-foster-crisis-by-supporting-families)
+[Fighting the opioid and foster crisis by supporting families - The Hill](http://thehill.com/blogs/congress-blog/politics/390026-fighting-the-opioid-and-foster-crisis-by-supporting-families)
 
 > While it is wonderful that many Americans become foster parents to adopt or “save” children, we need wrap-around supports in local communities, and we need families now more than ever before who are willing to foster children for a period of time while parents overcome addiction. To stop negative societal trends that are ravaged by drug addiction, we need an “all hands on deck” approach to help vulnerable children in our own backyards.  
 
