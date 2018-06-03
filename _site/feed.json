@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/03/what-should-have.html",
+	      	
+			"content_html": "<p>What should have been a 7.5 hour drive with small children turned into a 12 hour drive. I’ve never been so happy to be home.</p>\n",
+			"date_published": "2018-06-02T22:02:02-05:00",
+			"url": "http://craigmcclellan.com/2018/06/02/what-should-have.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/02/i-have-discovered.html",
+	      	
+			"content_html": "<p>I have discovered my least favorite place on planet earth, and it is the Zaxby’s in Andalusia, AL. It’s where all dreams go to die.</p>\n",
+			"date_published": "2018-06-02T13:26:11-05:00",
+			"url": "http://craigmcclellan.com/2018/06/02/i-have-discovered.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/02/family-vacation.html",
 	      	
 			"title": "Family Vacation 2018",
@@ -193,22 +209,6 @@
 			"content_html": "<p>The Arrested Development Season 4 remix is so much better than the original version. Can’t wait for season 5.</p>\n",
 			"date_published": "2018-05-21T16:40:17-05:00",
 			"url": "http://craigmcclellan.com/2018/05/21/the-arrested-development.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/21/ben-rector-i.html",
-	      	
-			"content_html": "<p>🎵 <a href=\"https://itunes.apple.com/us/album/id1383942388?i=1383943162&amp;at=1l3vwJx&amp;ct=podcast&amp;app=music\">Ben Rector - I Will Always Be Yours</a></p>\n\n<p>Man can this dude write a catchy pop song.</p>\n",
-			"date_published": "2018-05-21T10:27:54-05:00",
-			"url": "http://craigmcclellan.com/2018/05/21/ben-rector-i.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/19/but-i-dont.html",
-	      	
-			"content_html": "<blockquote>\n  <p>But I don’t believe God is ever honored by our burnout, even on behalf of the worthiest of efforts.</p>\n</blockquote>\n\n<p>Chris Heuertz - “The Sacred Enneagram”</p>\n",
-			"date_published": "2018-05-19T16:03:53-05:00",
-			"url": "http://craigmcclellan.com/2018/05/19/but-i-dont.html"
 		}
 		
 	]
