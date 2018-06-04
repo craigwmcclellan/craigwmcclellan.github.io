@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/03/fbi-agent-loses.html",
+	      	
+			"content_html": "<p><a href=\"https://apple.news/AjQxZ34AEQL260f-uxGAHNA\">FBI agent loses his gun during dance-floor backflip, accidentally shoots bar patron - CNN</a></p>\n\n<p>This headline and video. 😱</p>\n",
+			"date_published": "2018-06-03T18:22:21-05:00",
+			"url": "http://craigmcclellan.com/2018/06/03/fbi-agent-loses.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/03/since-i-taught.html",
+	      	
+			"content_html": "<p>Since I taught second grade last year and haven’t started teaching third grade yet, do I refer to myself as a rising third-grade teacher?</p>\n",
+			"date_published": "2018-06-03T11:31:26-05:00",
+			"url": "http://craigmcclellan.com/2018/06/03/since-i-taught.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/03/what-should-have.html",
 	      	
 			"content_html": "<p>What should have been a 7.5 hour drive with small children turned into a 12 hour drive. I’ve never been so happy to be home.</p>\n",
@@ -193,22 +209,6 @@
 			"content_html": "<p><a href=\"https://twitter.com/johnvoorhees/status/998912787970654210\">I guess I’ll have to own up to my words now</a>.</p>\n",
 			"date_published": "2018-05-22T08:34:28-05:00",
 			"url": "http://craigmcclellan.com/2018/05/22/i-guess-ill.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/22/gemini-photos-declutters.html",
-	      	
-			"content_html": "<p><a href=\"https://www.macstories.net/reviews/gemini-photos-declutters-your-photo-library/\">Gemini Photos Declutters Your Photo Library – MacStories</a></p>\n\n<p>I’m all for productivity apps or apps with server components having a subscription. A utility I would use every 6 months or so for 10 minutes doesn’t warrant $12 a year though. If Gemini was a five dollar single purchase (even potentially 10 because the design is so nice), I would pick it up immediately.</p>\n\n<p>I’m not a developer, nor do I want to be. I appreciate the difficulties they face though and hope they can find the right balance of pricing and value to be successful. I also hope Gemini is valuable enough to others for it to be a worthwhile endeavor for Mac Paw. When great apps succeed, it’s better for everyone. It’s just not going to be the tool for me.</p>\n",
-			"date_published": "2018-05-22T07:45:02-05:00",
-			"url": "http://craigmcclellan.com/2018/05/22/gemini-photos-declutters.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/21/the-arrested-development.html",
-	      	
-			"content_html": "<p>The Arrested Development Season 4 remix is so much better than the original version. Can’t wait for season 5.</p>\n",
-			"date_published": "2018-05-21T16:40:17-05:00",
-			"url": "http://craigmcclellan.com/2018/05/21/the-arrested-development.html"
 		}
 		
 	]
