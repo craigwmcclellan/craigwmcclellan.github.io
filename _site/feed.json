@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/05/ios-the-macstories.html",
+	      	
+			"content_html": "<p><a href=\"https://www.macstories.net/news/ios-12-the-macstories-overview/\">iOS 12: The MacStories Overview – MacStories</a></p>\n\n<blockquote>\n  <p>Finally, there’s a new type of notification in iOS 12 designed for critical information. This opt-in alert will notify you even when Do Not Disturb is engaged. One use case Apple mentions for this feature is getting important reports from your healthcare provider, but it’s unclear if these new ‘critical alerts’ will be limited to certain app types, or if any app will be able to take advantage of them.</p>\n</blockquote>\n\n<p>I didn’t catch this in other coverage today. I’m excited about the possibilities of this feature.</p>\n",
+			"date_published": "2018-06-04T21:21:56-05:00",
+			"url": "http://craigmcclellan.com/2018/06/04/ios-the-macstories.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/04/the-drafts-action.html",
+	      	
+			"content_html": "<p>The Drafts action was only working intermittently. I’ve updated it now, and it should work. <a href=\"https://actions.getdrafts.com/a/1K8\">Add it here</a>.</p>\n",
+			"date_published": "2018-06-04T12:10:47-05:00",
+			"url": "http://craigmcclellan.com/2018/06/04/the-drafts-action.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/04/i-created-a.html",
+	      	
+			"content_html": "<p>I created a quick <a href=\"https://actions.getdrafts.com/a/1K8\">Drafts 5 action</a> for live tweeting the WWDC keynote. It automatically adds the hashtag #WWDC18 and then tweets.</p>\n",
+			"date_published": "2018-06-04T11:30:37-05:00",
+			"url": "http://craigmcclellan.com/2018/06/04/i-created-a.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/03/fbi-agent-loses.html",
 	      	
 			"content_html": "<p><a href=\"https://apple.news/AjQxZ34AEQL260f-uxGAHNA\">FBI agent loses his gun during dance-floor backflip, accidentally shoots bar patron - CNN</a></p>\n\n<p>This headline and video. 😱</p>\n",
@@ -185,30 +209,6 @@
 			"content_html": "<p><a href=\"https://youtu.be/oD_3wMh5kLg\">Top 5 Smartphone Cameras: The Blind Test! (2018) - MKBHD</a></p>\n\n<p>While I’m not a professional photographer and don’t know exactly what to look for, I was pleasantly surprised the iPhone X won out for me with the S9+ at a close second. Something about it suited my taste.</p>\n",
 			"date_published": "2018-05-23T22:41:47-05:00",
 			"url": "http://craigmcclellan.com/2018/05/23/top-smartphone-cameras.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/23/this-group-of.html",
-	      	
-			"content_html": "<p>This group of 4th graders was my first class (for a full year), and now they’re off to middle school. So proud of them and to have been their teacher. Also, it’s Wacky Wednesday. Don’t mind the outfits.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/5b5f1fcbf4.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-05-23T10:25:29-05:00",
-			"url": "http://craigmcclellan.com/2018/05/23/this-group-of.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/23/its-our-final.html",
-	      	
-			"content_html": "<p>It’s our final full day of the school year, and we’re having a game day in my classroom. Some students are playing Apples to Apples, and it’s hilarious to hear them question each of the cards. “Denzel Washington? Who is Denzel Washington?”</p>\n",
-			"date_published": "2018-05-23T09:23:46-05:00",
-			"url": "http://craigmcclellan.com/2018/05/23/its-our-final.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/22/i-guess-ill.html",
-	      	
-			"content_html": "<p><a href=\"https://twitter.com/johnvoorhees/status/998912787970654210\">I guess I’ll have to own up to my words now</a>.</p>\n",
-			"date_published": "2018-05-22T08:34:28-05:00",
-			"url": "http://craigmcclellan.com/2018/05/22/i-guess-ill.html"
 		}
 		
 	]
