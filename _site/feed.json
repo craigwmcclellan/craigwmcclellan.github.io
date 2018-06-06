@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/05/report-multiple-faces.html",
+	      	
+			"content_html": "<p><a href=\"https://sixcolors.com/post/2018/06/report-multiple-faces-for-face-id-and-face-id-for-ipad/\">Report: Multiple faces for Face ID, and Face ID for iPad - Six Colors</a></p>\n\n<blockquote>\n  <p>This leads directly into another tidbit: developer Guilherme Rambo uncovered the UI for Face ID in the iPad build of iOS 12, lending credence that a tablet with the feature might appear later this year.</p>\n</blockquote>\n\n<p>This makes me feel good about my post <a href=\"http://craigmcclellan.com/2018/05/28/thoughts-on-new.html\">Thoughts on New iPad Hardware at WWDC</a>. My thoughts on iOS 12 having the needed Face ID software for iPads seem to have been accurate.</p>\n",
+			"date_published": "2018-06-05T11:03:45-05:00",
+			"url": "http://craigmcclellan.com/2018/06/05/report-multiple-faces.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/05/my-wifionly-ipad.html",
+	      	
+			"content_html": "<p>My WiFi-only 12.9” iPad Pro cannot stream Apple Music. It can only play downloaded music. I can’t find a setting that has been changed anywhere. 10.5” and iPhone X are both fine. Anyone have thoughts or suggestions? Anyone else seeing this? Is it a bug or user error?</p>\n",
+			"date_published": "2018-06-05T10:29:27-05:00",
+			"url": "http://craigmcclellan.com/2018/06/05/my-wifionly-ipad.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/05/i-hope-ios.html",
+	      	
+			"content_html": "<p>I hope iOS 12’s photo sharing is smart enough to offer to share photos of my kids with my wife. I’m worried it will only offer to share with the people in the photos.</p>\n",
+			"date_published": "2018-06-05T07:42:24-05:00",
+			"url": "http://craigmcclellan.com/2018/06/05/i-hope-ios.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/05/ios-the-macstories.html",
 	      	
 			"content_html": "<p><a href=\"https://www.macstories.net/news/ios-12-the-macstories-overview/\">iOS 12: The MacStories Overview – MacStories</a></p>\n\n<blockquote>\n  <p>Finally, there’s a new type of notification in iOS 12 designed for critical information. This opt-in alert will notify you even when Do Not Disturb is engaged. One use case Apple mentions for this feature is getting important reports from your healthcare provider, but it’s unclear if these new ‘critical alerts’ will be limited to certain app types, or if any app will be able to take advantage of them.</p>\n</blockquote>\n\n<p>I didn’t catch this in other coverage today. I’m excited about the possibilities of this feature.</p>\n",
@@ -185,30 +209,6 @@
 			"content_html": "<p>SOLO! So good!</p>\n",
 			"date_published": "2018-05-24T21:37:20-05:00",
 			"url": "http://craigmcclellan.com/2018/05/24/solo-so-good.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/25/time-for-solo.html",
-	      	
-			"content_html": "<p>Time for Solo!</p>\n",
-			"date_published": "2018-05-24T19:01:09-05:00",
-			"url": "http://craigmcclellan.com/2018/05/24/time-for-solo.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/24/145842.html",
-	      	
-			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=mQ055hHdxbE\">John Mayer - New Light (Premium Content!)</a></p>\n\n<p>If you need a little joy in your life today, this music video should do it.</p>\n",
-			"date_published": "2018-05-24T09:58:42-05:00",
-			"url": "http://craigmcclellan.com/2018/05/24/145842.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/24/top-smartphone-cameras.html",
-	      	
-			"content_html": "<p><a href=\"https://youtu.be/oD_3wMh5kLg\">Top 5 Smartphone Cameras: The Blind Test! (2018) - MKBHD</a></p>\n\n<p>While I’m not a professional photographer and don’t know exactly what to look for, I was pleasantly surprised the iPhone X won out for me with the S9+ at a close second. Something about it suited my taste.</p>\n",
-			"date_published": "2018-05-23T22:41:47-05:00",
-			"url": "http://craigmcclellan.com/2018/05/23/top-smartphone-cameras.html"
 		}
 		
 	]
