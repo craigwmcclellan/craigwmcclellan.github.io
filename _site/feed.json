@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/06/165833.html",
+	      	
+			"content_html": "<p>Testing</p>\n",
+			"date_published": "2018-06-06T11:58:33-05:00",
+			"url": "http://craigmcclellan.com/2018/06/06/165833.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/06/what-is-one.html",
+	      	
+			"content_html": "<p>What is one of the first things a nerdy teacher does on summer vacation? Reread David Allen’s GTD as a tune up for next year.</p>\n",
+			"date_published": "2018-06-06T10:09:58-05:00",
+			"url": "http://craigmcclellan.com/2018/06/06/what-is-one.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/05/report-multiple-faces.html",
 	      	
 			"content_html": "<p><a href=\"https://sixcolors.com/post/2018/06/report-multiple-faces-for-face-id-and-face-id-for-ipad/\">Report: Multiple faces for Face ID, and Face ID for iPad - Six Colors</a></p>\n\n<blockquote>\n  <p>This leads directly into another tidbit: developer Guilherme Rambo uncovered the UI for Face ID in the iPad build of iOS 12, lending credence that a tablet with the feature might appear later this year.</p>\n</blockquote>\n\n<p>This makes me feel good about my post <a href=\"http://craigmcclellan.com/2018/05/28/thoughts-on-new.html\">Thoughts on New iPad Hardware at WWDC</a>. My thoughts on iOS 12 having the needed Face ID software for iPads seem to have been accurate.</p>\n",
@@ -193,22 +209,6 @@
 			"content_html": "<p>When I started teaching, all I wanted was to teach 2nd Grade at this school. It was a huge moment the first time I stepped into this room and it was <strong>my</strong> 2nd Grade room. 3 years later I’m moving out and up to 3rd grade. New adventures will be fun, but this room will be missed.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/7c6eca3cba.jpg\" width=\"600\" height=\"600\" /><img src=\"http://craigmcclellan.com/uploads/2018/0c8f2b7a6d.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-25T09:51:10-05:00",
 			"url": "http://craigmcclellan.com/2018/05/25/when-i-started.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/25/when-friends-who.html",
-	      	
-			"content_html": "<p>When friends who bonded over their love of Star Wars finally get to see one together in a theater.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/656353ccda.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-24T22:22:18-05:00",
-			"url": "http://craigmcclellan.com/2018/05/24/when-friends-who.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/25/solo-so-good.html",
-	      	
-			"content_html": "<p>SOLO! So good!</p>\n",
-			"date_published": "2018-05-24T21:37:20-05:00",
-			"url": "http://craigmcclellan.com/2018/05/24/solo-so-good.html"
 		}
 		
 	]
