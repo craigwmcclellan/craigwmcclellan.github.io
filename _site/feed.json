@@ -6,6 +6,32 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/09/moving-the-class.html",
+	      	
+			"title": "Moving The Class Nerd",
+			
+			"content_html": "<p>I have officially started the process of moving my blog, The Class Nerd, from Squarespace to Micro.blog. I have struggled with squarespace for a long time as an iOS only user, and as Micro.blog has matured as a platform, it has become more and more powerful. That, combined with the ability for me to post content directly to Micro.blog from Drafts 5, has let me to moving.</p>\n\n<p>I currently have <a href=\"https://micro.blog/theclassnerd\">@theclassnerd</a> set up here on Micro.blog, and I have just moved the domain over.</p>\n\n<p>If you are subscribed to The Class Nerd via RSS, you’ll need to use the new feed (or JSON feed). If you follow me on Micro.blog and want to continue to see my posts about education technology, you should follow <a href=\"https://micro.blog/theclassnerd\">@theclassnerd</a>. All posts via The Class Nerd will also go to <a href=\"http://twitter.com/theclassnerd\">The Class Nerd twitter account</a>.</p>\n\n<p>CraigMcClellan.com will continue as my personal blog covering everything from Apple to foster care to Star Wars. All posts about how I get my work done as a teacher using iOS will be on The Class Nerd. Follow along even if you’re not a teacher though. Hopefully it’s still useful.</p>\n\n<p>I have a lot of stuff planned for The Class Nerd in the next few weeks, and having it hosted here on Micro.blog enables a lot of that. I’m excited for what the future holds.</p>\n",
+			"date_published": "2018-06-09T17:35:19-05:00",
+			"url": "http://craigmcclellan.com/2018/06/09/moving-the-class.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/09/will-love-forever.html",
+	      	
+			"content_html": "<p>13/10 Will love forever</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/d12efbc525.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-09T16:09:57-05:00",
+			"url": "http://craigmcclellan.com/2018/06/09/will-love-forever.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/09/first-lightning-bugs.html",
+	      	
+			"content_html": "<p>First lightning bugs of the summer</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/019be52eda.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-08T19:55:03-05:00",
+			"url": "http://craigmcclellan.com/2018/06/08/first-lightning-bugs.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/07/everyone-has-a.html",
 	      	
 			"content_html": "<p><a href=\"https://brenebrown.com/blog/2018/06/07/everyone-has-a-story/\">Everyone Has A Story - Brené Brown</a></p>\n\n<blockquote>\n  <p>To know pain is human. To need is human. And, no amount of money, influence, resources, or sheer determination will change our physical, emotional, and spiritual dependence on others.</p>\n\n  <p>Many of us are willing to extend a helping hand, but we’re very reluctant to reach out for help when we need it ourselves. It’s as if we’ve divided the world into “those who offer help” and “those who need help.” The truth is that we are both.  Need is the most beautiful compact between humans.</p>\n</blockquote>\n",
@@ -183,32 +209,6 @@
 			"content_html": "<p><a href=\"https://www.macstories.net/reviews/agenda-for-ios-review/\">Agenda</a> looks like it could be a really interesting app for lesson planning. I’ve downloaded it and will give it a shot.</p>\n",
 			"date_published": "2018-05-29T10:00:17-05:00",
 			"url": "http://craigmcclellan.com/2018/05/29/agendalooks-like-it.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/28/in-case-anyone.html",
-	      	
-			"content_html": "<p>📽 In case anyone is wondering, Solo totally holds up to a second viewing. Such a great movie.</p>\n",
-			"date_published": "2018-05-28T18:58:42-05:00",
-			"url": "http://craigmcclellan.com/2018/05/28/in-case-anyone.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/28/alberto-memorial-day.html",
-	      	
-			"content_html": "<p>Alberto Memorial Day = Solo Round 2.</p>\n",
-			"date_published": "2018-05-28T15:34:48-05:00",
-			"url": "http://craigmcclellan.com/2018/05/28/alberto-memorial-day.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/28/thoughts-on-new.html",
-	      	
-			"title": "Thoughts on New iPad Hardware at WWDC",
-			
-			"content_html": "<p>Apple blogs and podcasts are all predicting new iPad Pros released next week at WWDC. While I would love for this to happen and will be first in line to get an iPhone X style iPad, I don’t think we’re going to get them for 2 reasons.</p>\n\n<p>First, there’s the lack of leaks. While this is not a perfect indicator due to Apple’s increased focus on privacy, I still find it hard to believe they’ve come so far since the massive leaks surrounding iPhone X last fall. I feel like we would have seen supply chain leaks of form factors for new iPads with no bezels if they are coming. This suggests either the new iPad Pros will just be a speed bump to include the A11X processor with no form factor change or new form factors won’t be released until the fall.</p>\n\n<p>The other factor which makes me think not until the fall is Face ID. Currently on iPhone X, Face ID only works in portrait mode. For an iPad which is rotated far more than an iPhone, facial recognition in both orientations is a necessity. This seems to me like a feature that would come to iOS in a major .0 update rather than say iOS 11.5. I also don’t think they would release iPads with this feature and not add it to iPhone X. So my thought is multi-orientation Face ID will be announced as part of iOS 12 next week. Then in September when new iPhones are announced, new iPad Pros will also be announced that take advantage of this feature.</p>\n\n<p>This is just a guess, and I really hope to be proven wrong. However I wanted to put it out into the world just for the bragging rights just in case.</p>\n",
-			"date_published": "2018-05-28T10:30:00-05:00",
-			"url": "http://craigmcclellan.com/2018/05/28/thoughts-on-new.html"
 		}
 		
 	]
