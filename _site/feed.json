@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/12/so-you-cant.html",
+	      	
+			"content_html": "<p>So you can’t login to iTunes Connect from an iOS device? Cool, cool, cool.</p>\n",
+			"date_published": "2018-06-12T11:00:50-05:00",
+			"url": "http://craigmcclellan.com/2018/06/12/so-you-cant.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/11/i-love-everything.html",
+	      	
+			"content_html": "<p>I love everything about this sign at my school.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/60916e05b9.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-11T14:40:57-05:00",
+			"url": "http://craigmcclellan.com/2018/06/11/i-love-everything.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/11/163432.html",
+	      	
+			"content_html": "<p>As someone who almost never has cash on me, vending machines that take Apple Pay feel like magic.</p>\n",
+			"date_published": "2018-06-11T11:34:32-05:00",
+			"url": "http://craigmcclellan.com/2018/06/11/163432.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/10/episodes-in-to.html",
+	      	
+			"content_html": "<p>📺 3 episodes in to Netflix’s Lost in Space, and holy cow. So good.</p>\n",
+			"date_published": "2018-06-10T16:13:38-05:00",
+			"url": "http://craigmcclellan.com/2018/06/10/episodes-in-to.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/09/moving-the-class.html",
 	      	
 			"title": "Moving The Class Nerd",
@@ -177,38 +209,6 @@
 			"content_html": "<p><a href=\"https://daringfireball.net/2018/05/10_strikes_and_youre_out\">Daring Fireball: 10 Strikes and You’re Out — the iOS Feature You’re Probably Not Using But Should</a></p>\n\n<p>I had no idea this was how the passcode feature worked. Enabling now in all devices.</p>\n",
 			"date_published": "2018-05-31T17:37:18-05:00",
 			"url": "http://craigmcclellan.com/2018/05/31/daring-fireball-strikes.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/31/fighting-the-opioid.html",
-	      	
-			"content_html": "<p><a href=\"http://thehill.com/blogs/congress-blog/politics/390026-fighting-the-opioid-and-foster-crisis-by-supporting-families\">Fighting the opioid and foster crisis by supporting families - The Hill</a></p>\n\n<blockquote>\n  <p>While it is wonderful that many Americans become foster parents to adopt or “save” children, we need wrap-around supports in local communities, and we need families now more than ever before who are willing to foster children for a period of time while parents overcome addiction. To stop negative societal trends that are ravaged by drug addiction, we need an “all hands on deck” approach to help vulnerable children in our own backyards.  </p>\n</blockquote>\n\n<p>I agree with Senator Lankford that <strong>all</strong> families impacted by foster care need support and I believe reunification is important. We have fostered multiple children who were reunified, and it was a beautiful thing.</p>\n\n<p>I also think foster children should have a right to permanency. At what point does sticking with a goal of reunification begin to hurt a child’s wellbeing? If a 2.5 year old has been with foster parents over 2 years, how much more harmful would reunification be to the child than staying with the only family they know?</p>\n\n<p>The foster care system is broken in so many ways, and it’s always the kids who are the victims.</p>\n",
-			"date_published": "2018-05-31T10:56:07-05:00",
-			"url": "http://craigmcclellan.com/2018/05/31/fighting-the-opioid.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/30/my-own-personal.html",
-	      	
-			"content_html": "<p><a href=\"https://meganmorrone.com/2018/05/30/my-own-personal-youtube-comments/\">My Own Personal Youtube Comments</a> - <a href=\"https://micro.blog/megan\">@megan</a></p>\n\n<p>I love the writing, honesty, and truth in this post.</p>\n",
-			"date_published": "2018-05-30T07:31:52-05:00",
-			"url": "http://craigmcclellan.com/2018/05/30/my-own-personal.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/29/everyone-needs-to.html",
-	      	
-			"content_html": "<p><a href=\"https://io9.gizmodo.com/everyone-needs-to-calm-down-about-solos-box-office-perf-1826387395\">Everyone Needs to Calm Down About Solo’s Box Office Performance</a></p>\n\n<blockquote>\n  <p>Obviously, the studio has to be looking at Solo and trying to figure out what more it could have done to better promote the film, but if you think that this hiccup is the beginning of Star Wars’ demise… well, you must be new here.</p>\n</blockquote>\n",
-			"date_published": "2018-05-29T11:14:09-05:00",
-			"url": "http://craigmcclellan.com/2018/05/29/everyone-needs-to.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/05/29/agendalooks-like-it.html",
-	      	
-			"content_html": "<p><a href=\"https://www.macstories.net/reviews/agenda-for-ios-review/\">Agenda</a> looks like it could be a really interesting app for lesson planning. I’ve downloaded it and will give it a shot.</p>\n",
-			"date_published": "2018-05-29T10:00:17-05:00",
-			"url": "http://craigmcclellan.com/2018/05/29/agendalooks-like-it.html"
 		}
 		
 	]
