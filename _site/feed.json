@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/18/as-i-read.html",
+	      	
+			"content_html": "<p>As I read teaching books over the summer, I’m realizing few things bother me more than stories from a made up classroom used to illustrate a teaching strategy.</p>\n",
+			"date_published": "2018-06-18T10:36:35-05:00",
+			"url": "http://craigmcclellan.com/2018/06/18/as-i-read.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/17/fathers-day-coffee.html",
 	      	
 			"content_html": "<p>Father’s Day coffee and chocolate milk date with my oldest while Mommy and the youngest nap.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/987bad5ce5.jpg\" width=\"450\" height=\"600\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>I created a quick <a href=\"https://actions.getdrafts.com/a/1K8\">Drafts 5 action</a> for live tweeting the WWDC keynote. It automatically adds the hashtag #WWDC18 and then tweets.</p>\n",
 			"date_published": "2018-06-04T11:30:37-05:00",
 			"url": "http://craigmcclellan.com/2018/06/04/i-created-a.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/03/fbi-agent-loses.html",
-	      	
-			"content_html": "<p><a href=\"https://apple.news/AjQxZ34AEQL260f-uxGAHNA\">FBI agent loses his gun during dance-floor backflip, accidentally shoots bar patron - CNN</a></p>\n\n<p>This headline and video. 😱</p>\n",
-			"date_published": "2018-06-03T18:22:21-05:00",
-			"url": "http://craigmcclellan.com/2018/06/03/fbi-agent-loses.html"
 		}
 		
 	]
