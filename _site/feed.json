@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/17/fathers-day-coffee.html",
+	      	
+			"content_html": "<p>Father’s Day coffee and chocolate milk date with my oldest while Mommy and the youngest nap.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/987bad5ce5.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-17T14:43:56-05:00",
+			"url": "http://craigmcclellan.com/2018/06/17/fathers-day-coffee.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/17/being-daddy-to.html",
+	      	
+			"content_html": "<p>Being Daddy to these two is the best. I’m proud to be their father on this Father’s Day.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/fd670fd2d7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-17T12:53:16-05:00",
+			"url": "http://craigmcclellan.com/2018/06/17/being-daddy-to.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/16/the-bad-news.html",
 	      	
 			"content_html": "<p>The bad news is I had to reset my iPad from scratch. The good news is <a href=\"http://craigmcclellan.com/2018/06/05/my-wifionly-ipad.html\">my Apple Music issue</a> is fixed. Let’s hope it stays that way.</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p><a href=\"https://apple.news/AjQxZ34AEQL260f-uxGAHNA\">FBI agent loses his gun during dance-floor backflip, accidentally shoots bar patron - CNN</a></p>\n\n<p>This headline and video. 😱</p>\n",
 			"date_published": "2018-06-03T18:22:21-05:00",
 			"url": "http://craigmcclellan.com/2018/06/03/fbi-agent-loses.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/03/since-i-taught.html",
-	      	
-			"content_html": "<p>Since I taught second grade last year and haven’t started teaching third grade yet, do I refer to myself as a rising third-grade teacher?</p>\n",
-			"date_published": "2018-06-03T11:31:26-05:00",
-			"url": "http://craigmcclellan.com/2018/06/03/since-i-taught.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/03/what-should-have.html",
-	      	
-			"content_html": "<p>What should have been a 7.5 hour drive with small children turned into a 12 hour drive. I’ve never been so happy to be home.</p>\n",
-			"date_published": "2018-06-02T22:02:02-05:00",
-			"url": "http://craigmcclellan.com/2018/06/02/what-should-have.html"
 		}
 		
 	]
