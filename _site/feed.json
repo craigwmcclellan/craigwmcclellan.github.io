@@ -6,6 +6,38 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/20/future-star-wars.html",
+	      	
+			"content_html": "<p><a href=\"http://www.slashfilm.com/star-wars-story-spin-offs/\">Future Star Wars Spin-Offs Are On Hold at Lucasfilm</a></p>\n\n<p>This is so frustrating. Solo was delightful, and I was really excited about Obi-Wan.</p>\n",
+			"date_published": "2018-06-20T18:34:18-05:00",
+			"url": "http://craigmcclellan.com/2018/06/20/future-star-wars.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/20/do-i-currently.html",
+	      	
+			"content_html": "<p>Do I currently feel super cool sitting in a coffee shop editing a podcast with my iPad and an Apple Pencil? Yes. Yes I do.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/e0d15c7987.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-20T09:29:57-05:00",
+			"url": "http://craigmcclellan.com/2018/06/20/do-i-currently.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/19/introducing-the-class.html",
+	      	
+			"content_html": "<p><a href=\"http://www.theclassnerd.com/2018/06/19/introducing-the-class.html\">Introducing The Class Nerd Podcast - The Class Nerd</a></p>\n\n<p>This has been several months in the making. I’m so excited to finally share the first episode of The Class Nerd Podcast.</p>\n",
+			"date_published": "2018-06-19T15:34:29-05:00",
+			"url": "http://craigmcclellan.com/2018/06/19/introducing-the-class.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/18/the-beyoncejay-z.html",
+	      	
+			"content_html": "<p>🎵 The Beyonce/Jay Z album <a href=\"https://itunes.apple.com/us/album/id1400124394?i=1400124395&amp;at=1l3vwJx&amp;ct=microblog&amp;app=music\">is now on Apple Music</a>. Can’t wait to give this a listen this afternoon.</p>\n",
+			"date_published": "2018-06-18T13:38:19-05:00",
+			"url": "http://craigmcclellan.com/2018/06/18/the-beyoncejay-z.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/18/as-i-read.html",
 	      	
 			"content_html": "<p>As I read teaching books over the summer, I’m realizing few things bother me more than stories from a made up classroom used to illustrate a teaching strategy.</p>\n",
@@ -173,38 +205,6 @@
 			"content_html": "<p>My WiFi-only 12.9” iPad Pro cannot stream Apple Music. It can only play downloaded music. I can’t find a setting that has been changed anywhere. 10.5” and iPhone X are both fine. Anyone have thoughts or suggestions? Anyone else seeing this? Is it a bug or user error?</p>\n",
 			"date_published": "2018-06-05T10:29:27-05:00",
 			"url": "http://craigmcclellan.com/2018/06/05/my-wifionly-ipad.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/05/i-hope-ios.html",
-	      	
-			"content_html": "<p>I hope iOS 12’s photo sharing is smart enough to offer to share photos of my kids with my wife. I’m worried it will only offer to share with the people in the photos.</p>\n",
-			"date_published": "2018-06-05T07:42:24-05:00",
-			"url": "http://craigmcclellan.com/2018/06/05/i-hope-ios.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/05/ios-the-macstories.html",
-	      	
-			"content_html": "<p><a href=\"https://www.macstories.net/news/ios-12-the-macstories-overview/\">iOS 12: The MacStories Overview – MacStories</a></p>\n\n<blockquote>\n  <p>Finally, there’s a new type of notification in iOS 12 designed for critical information. This opt-in alert will notify you even when Do Not Disturb is engaged. One use case Apple mentions for this feature is getting important reports from your healthcare provider, but it’s unclear if these new ‘critical alerts’ will be limited to certain app types, or if any app will be able to take advantage of them.</p>\n</blockquote>\n\n<p>I didn’t catch this in other coverage today. I’m excited about the possibilities of this feature.</p>\n",
-			"date_published": "2018-06-04T21:21:56-05:00",
-			"url": "http://craigmcclellan.com/2018/06/04/ios-the-macstories.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/04/the-drafts-action.html",
-	      	
-			"content_html": "<p>The Drafts action was only working intermittently. I’ve updated it now, and it should work. <a href=\"https://actions.getdrafts.com/a/1K8\">Add it here</a>.</p>\n",
-			"date_published": "2018-06-04T12:10:47-05:00",
-			"url": "http://craigmcclellan.com/2018/06/04/the-drafts-action.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/04/i-created-a.html",
-	      	
-			"content_html": "<p>I created a quick <a href=\"https://actions.getdrafts.com/a/1K8\">Drafts 5 action</a> for live tweeting the WWDC keynote. It automatically adds the hashtag #WWDC18 and then tweets.</p>\n",
-			"date_published": "2018-06-04T11:30:37-05:00",
-			"url": "http://craigmcclellan.com/2018/06/04/i-created-a.html"
 		}
 		
 	]
