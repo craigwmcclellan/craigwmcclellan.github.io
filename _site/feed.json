@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/21/i-dont-miss.html",
+	      	
+			"content_html": "<p>I don’t miss doing it for my job, but some days I really miss producing music. There’s nothing quite the experience.</p>\n",
+			"date_published": "2018-06-21T15:39:03-05:00",
+			"url": "http://craigmcclellan.com/2018/06/21/i-dont-miss.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/20/future-star-wars.html",
 	      	
 			"content_html": "<p><a href=\"http://www.slashfilm.com/star-wars-story-spin-offs/\">Future Star Wars Spin-Offs Are On Hold at Lucasfilm</a></p>\n\n<p>This is so frustrating. Solo was delightful, and I was really excited about Obi-Wan.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://sixcolors.com/post/2018/06/report-multiple-faces-for-face-id-and-face-id-for-ipad/\">Report: Multiple faces for Face ID, and Face ID for iPad - Six Colors</a></p>\n\n<blockquote>\n  <p>This leads directly into another tidbit: developer Guilherme Rambo uncovered the UI for Face ID in the iPad build of iOS 12, lending credence that a tablet with the feature might appear later this year.</p>\n</blockquote>\n\n<p>This makes me feel good about my post <a href=\"http://craigmcclellan.com/2018/05/28/thoughts-on-new.html\">Thoughts on New iPad Hardware at WWDC</a>. My thoughts on iOS 12 having the needed Face ID software for iPads seem to have been accurate.</p>\n",
 			"date_published": "2018-06-05T11:03:45-05:00",
 			"url": "http://craigmcclellan.com/2018/06/05/report-multiple-faces.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/05/my-wifionly-ipad.html",
-	      	
-			"content_html": "<p>My WiFi-only 12.9” iPad Pro cannot stream Apple Music. It can only play downloaded music. I can’t find a setting that has been changed anywhere. 10.5” and iPhone X are both fine. Anyone have thoughts or suggestions? Anyone else seeing this? Is it a bug or user error?</p>\n",
-			"date_published": "2018-06-05T10:29:27-05:00",
-			"url": "http://craigmcclellan.com/2018/06/05/my-wifionly-ipad.html"
 		}
 		
 	]
