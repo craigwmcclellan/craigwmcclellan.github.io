@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/25/i-make-great.html",
+	      	
+			"content_html": "<p>I make great decisions with my only iPhone.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/33e890d8b3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-25T16:45:56-05:00",
+			"url": "http://craigmcclellan.com/2018/06/25/i-make-great.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/24/ben-rector-magic.html",
+	      	
+			"content_html": "<p>🎵 <a href=\"https://itunes.apple.com/us/album/id1383942388?at=1l3vwJx&amp;ct=microblog&amp;app=music\">Ben Rector - Magic</a></p>\n\n<p>This record is 🔥</p>\n",
+			"date_published": "2018-06-24T18:51:34-05:00",
+			"url": "http://craigmcclellan.com/2018/06/24/ben-rector-magic.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/22/john-mayer-making.html",
 	      	
 			"content_html": "<p><a href=\"https://m.youtube.com/watch?feature=youtu.be&amp;v=u03DZEaSewM\">John Mayer - Making of “New Light” for IGTV</a></p>\n\n<p>This does not help the part of me that misses making music.</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p><a href=\"https://actions.getdrafts.com/a/1LC\">I’ve written a script in Drafts 5</a> that works as a Module switcher to let you select which Workspace, keyboard, and Action list you wish to activate based on what activity you are doing in Drafts.</p>\n",
 			"date_published": "2018-06-07T13:12:44-05:00",
 			"url": "http://craigmcclellan.com/2018/06/07/ive-written-a.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/07/ive-already-made.html",
-	      	
-			"content_html": "<p>I’ve already made a basic Module Switcher action using today’s Drafts 5.2 update. I want to make some tweaks before I share it, but this is another <strong>huge</strong> step forward for Drafts.</p>\n",
-			"date_published": "2018-06-06T21:56:16-05:00",
-			"url": "http://craigmcclellan.com/2018/06/06/ive-already-made.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/07/the-bunny-i.html",
-	      	
-			"content_html": "<p><a href=\"http://craigmcclellan.com/2018/05/03/115413.html\">The bunny I posted about here</a> is apparently a mommy or daddy because I just saw the tiniest baby bunny in my yard. Sadly it ran away before I could get a picture though.</p>\n",
-			"date_published": "2018-06-06T19:29:50-05:00",
-			"url": "http://craigmcclellan.com/2018/06/06/the-bunny-i.html"
 		}
 		
 	]
