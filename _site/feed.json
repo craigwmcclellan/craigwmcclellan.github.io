@@ -6,6 +6,176 @@
 	"items": [
 		
 		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/12/just-finished-the.html",
+	      	
+			"content_html": "<p>📚 Just finished “The Caledonian Gambit” by Dan Moren. Super fun sci-fi read. I definitely recommend it.</p>\n",
+			"date_published": "2018-07-11T21:57:45-05:00",
+			"url": "http://craigmcclellan.com/2018/07/11/just-finished-the.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/10/200209.html",
+	      	
+			"content_html": "<p>The more I use Shortcuts, the more I want them to be able to access NSUserActivity so I can say “Run my playlist doubler shortcuts <strong>on this</strong> playlist.”</p>\n",
+			"date_published": "2018-07-10T15:02:09-05:00",
+			"url": "http://craigmcclellan.com/2018/07/10/200209.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/10/yep-faster-internet.html",
+	      	
+			"content_html": "<p>Yep. Faster internet is the key.</p>\n",
+			"date_published": "2018-07-10T10:59:53-05:00",
+			"url": "http://craigmcclellan.com/2018/07/10/yep-faster-internet.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/10/took-a-long.html",
+	      	
+			"content_html": "<p>Took a long weekend at the beach to celebrate this one’s 30th birthday. Thankful for some kid free relaxation time. Now to start getting ready for the school year to start. It’s only a few weeks away.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/6db6cdb398.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-10T10:55:21-05:00",
+			"url": "http://craigmcclellan.com/2018/07/10/took-a-long.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/10/just-tried-using.html",
+	      	
+			"content_html": "<p>Just tried using my Workflow to upload an episode of <a href=\"https://micro.blog/theclassnerd\">@theclassnerd</a>. It seems like that workflow doesn’t like 25 MB files. I’m going to try again on a better Internet connection.</p>\n",
+			"date_published": "2018-07-10T10:47:49-05:00",
+			"url": "http://craigmcclellan.com/2018/07/10/just-tried-using.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/07/just-noticed-this.html",
+	      	
+			"content_html": "<p>Just noticed this in the list of apps with integrations inside Shortcuts. Tapping on it currently does nothing, but I’m excited to see what shows up.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/8e3fd36bea.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-07T14:13:17-05:00",
+			"url": "http://craigmcclellan.com/2018/07/07/just-noticed-this.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/07/a-week-and.html",
+	      	
+			"content_html": "<p>A week and a half on the iOS Public Beta, countless bugs experienced, bugs reported: 0</p>\n\n<p>13 hours on the Shortcuts beta, 2 bugs experienced, bugs reported: 2.</p>\n\n<p>Clearly I have priorities.</p>\n",
+			"date_published": "2018-07-06T19:20:39-05:00",
+			"url": "http://craigmcclellan.com/2018/07/06/a-week-and.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/06/im-wondering-if.html",
+	      	
+			"content_html": "<p>I’m wondering if I got on the Shortcuts beta because I was on the old Workflow beta before Apple acquired them. It wasn’t through TestFlight, but I bet they still have that list.</p>\n",
+			"date_published": "2018-07-06T16:01:34-05:00",
+			"url": "http://craigmcclellan.com/2018/07/06/im-wondering-if.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/06/i-genuinely-dont.html",
+	      	
+			"content_html": "<p>😱 I genuinely don’t know how this happened. No developer account. I didn’t request access. I just got an email. But I am certainly not complaining. Thanks Apple!</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/68dac570d2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-06T06:25:43-05:00",
+			"url": "http://craigmcclellan.com/2018/07/06/i-genuinely-dont.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/05/microblog-image-and.html",
+	      	
+			"title": "Micro.blog Image and Podcast Posting with Workflow and Drafts",
+			
+			"content_html": "<p>While I use this site primarily for microposts, I host my blog and podcast, <a href=\"https://micro.blog/theclassnerd\">@theclassnerd</a>, here on Micro.blog as well. There I post longer form content that includes multiple images which has never been easy with Micro.blog hosted sites, especially as an iOS only user.</p>\n\n<p>I’ve finally put together something I’ve wanted to do for a long time, a combination of Drafts actions and workflows to upload images and mp3s to Micro.blog using the micropub API. The Drafts actions then insert the markdown for the image or html for the audio into my Draft right where the cursor is.</p>\n\n<p>I’ve been posting everything I possibly can from Drafts since the Drafts 5 beta launched. Now, I really can do all of my posting there.</p>\n\n<p>Special thanks to <a href=\"https://micro.blog/manton\">@manton</a> for adapting Micro.blog’s implementation of the micropub API so that the URLs don’t just come back through the response header (which Workflow can’t see), but also in JSON so I can extract it.</p>\n\n<p>You can get all of my actions and workflows here:</p>\n\n<ul>\n  <li><a href=\"https://actions.getdrafts.com/a/1Lz\">Image Drafts Action</a></li>\n  <li><a href=\"https://workflow.is/workflows/e98fd23db7e34aa79f992830ae34e3cb\">Image Workflow</a></li>\n  <li><a href=\"https://actions.getdrafts.com/a/1MA\">Podcast Drafts Action</a></li>\n  <li><a href=\"https://workflow.is/workflows/2d1cb55f150440fc8879b60078c1ba72\">Podcast Workflow</a></li>\n</ul>\n\n<p>Note: To run the workflows, you will need an app token from your Micro.blog account.</p>\n\n",
+			"date_published": "2018-07-05T13:44:43-05:00",
+			"url": "http://craigmcclellan.com/2018/07/05/microblog-image-and.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/05/public-beta-is.html",
+	      	
+			"content_html": "<p>Public Beta 2 is live!</p>\n",
+			"date_published": "2018-07-05T12:11:23-05:00",
+			"url": "http://craigmcclellan.com/2018/07/05/public-beta-is.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/05/i-dont-know.html",
+	      	
+			"content_html": "<p>I don’t know if this was my July challenge because of an iOS 12 bug or because I normally use Workouts++ instead of the standard workouts app to track my workouts. Either way, it was the easiest monthly challenge I’ve ever had.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/937cfda7c8.jpg\" width=\"312\" height=\"313\" /></p>\n",
+			"date_published": "2018-07-05T09:44:30-05:00",
+			"url": "http://craigmcclellan.com/2018/07/05/i-dont-know.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/03/alright-microblog-community.html",
+	      	
+			"content_html": "<p>Alright Micro.blog community, I’m wanting to write a workflow (or probably a Shortcut by the time I’m finished with it) to be able to post podcast episodes and images to micro.blog using the micropub API. I’m no programmer, but I can write a Drafts script and understand REST APIs. When I look at the micropub documentation on how to structure a multi-part/form request to the media endpoint, I may as well be reading another language. Has anyone successfully uploaded files to micro.blog using Workflow? Or is there a more user-friendly place to start with multi-part/form requests?</p>\n",
+			"date_published": "2018-07-03T10:07:35-05:00",
+			"url": "http://craigmcclellan.com/2018/07/03/alright-microblog-community.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/07/03/girl-talk-all.html",
+	      	
+			"content_html": "<p>🎵 <a href=\"http://www.illegal-art.net/allday/\">GIRL TALK - ALL DAY</a></p>\n\n<p>3 years later, this is still my favorite record to have playing while I work thanks to <a href=\"https://micro.blog/imyke\">@imyke</a> and @settern’s <a href=\"https://www.relay.fm/inquisitive/43\">introduction</a>.</p>\n",
+			"date_published": "2018-07-03T09:53:09-05:00",
+			"url": "http://craigmcclellan.com/2018/07/03/girl-talk-all.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/29/i-understand-why.html",
+	      	
+			"content_html": "<p>I understand why people complain about iOS’s model of only being able to buy software from the App Store, but having spent far too long trying to get software downloaded from the web to work on my wife’s Mac today, I have to say, I prefer the App Store model.</p>\n",
+			"date_published": "2018-06-29T15:30:39-05:00",
+			"url": "http://craigmcclellan.com/2018/06/29/i-understand-why.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/29/just-finished-lost.html",
+	      	
+			"content_html": "<p>📺 Just finished Lost in Space Season 1. Holy cow. If you love Sci-fi, you have to watch this ASAP.</p>\n",
+			"date_published": "2018-06-29T10:32:30-05:00",
+			"url": "http://craigmcclellan.com/2018/06/29/just-finished-lost.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/29/i-spent-most.html",
+	      	
+			"content_html": "<p>I spent most of today in bed sick, but did manage to rewatch Rogue One. Though not a perfect movie, it’s definitely a good one. I really hope the Star Wars Story movies continue.</p>\n",
+			"date_published": "2018-06-28T19:34:25-05:00",
+			"url": "http://craigmcclellan.com/2018/06/28/i-spent-most.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/28/yesterday-i-finally.html",
+	      	
+			"content_html": "<p>Yesterday I finally got to play guitar in the studio again for the first time in years. Such a good feeling.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/3cdcd24c1a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-28T18:34:31-05:00",
+			"url": "http://craigmcclellan.com/2018/06/28/yesterday-i-finally.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/26/i-wont-repost.html",
+	      	
+			"content_html": "<p>I won’t repost every episode of <a href=\"https://micro.blog/theclassnerd\">@theclassnerd</a> podcast here, but it’s new and I’m excited. Episode 2 is live!</p>\n\n<ul>\n  <li><a href=\"https://itunes.apple.com/us/podcast/the-class-nerd/id1398076143?mt=2#episodeGuid=http%3A%2F%2Ftheclassnerd.micro.blog%2F2018%2F06%2F26%2Fsemester-episode-rd.html\">Apple Podcasts</a></li>\n  <li><a href=\"https://overcast.fm/+Ng8VP78F0\">Overcast</a></li>\n  <li><a href=\"http://www.theclassnerd.com/2018/06/26/semester-episode-rd.html\">Web</a></li>\n</ul>\n",
+			"date_published": "2018-06-26T18:43:30-05:00",
+			"url": "http://craigmcclellan.com/2018/06/26/i-wont-repost.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/26/just-saw-wont.html",
+	      	
+			"content_html": "<p>📽 Just saw “Won’t You Be My Neighbor?”, and I am genuinely at a loss for words on how good it was. Go see it immediately.</p>\n",
+			"date_published": "2018-06-26T00:02:49-05:00",
+			"url": "http://craigmcclellan.com/2018/06/26/just-saw-wont.html"
+		},
+		
+		{
+			"id": "http://craigmcclellan.micro.blog/2018/06/26/022317.html",
+	      	
+			"content_html": "<p>Happy 30th birthday to the most compassionate, patient, funniest, and prettiest woman I know. Everyone who knows you loves you. I’m glad you were born and that we get to spend our days together.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/6a3c147b21.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-25T21:23:17-05:00",
+			"url": "http://craigmcclellan.com/2018/06/25/022317.html"
+		},
+		
+		{
 			"id": "http://craigmcclellan.micro.blog/2018/06/25/i-make-great.html",
 	      	
 			"content_html": "<p>I make great decisions with my only iPhone.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/33e890d8b3.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -35,176 +205,6 @@
 			"content_html": "<p>Carrot Weather bringing the 🤣</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/eb6976586d.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-22T16:19:14-05:00",
 			"url": "http://craigmcclellan.com/2018/06/22/carrot-weather-bringing.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/21/i-dont-miss.html",
-	      	
-			"content_html": "<p>I don’t miss doing it for my job, but some days I really miss producing music. There’s nothing quite the experience.</p>\n",
-			"date_published": "2018-06-21T15:39:03-05:00",
-			"url": "http://craigmcclellan.com/2018/06/21/i-dont-miss.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/20/future-star-wars.html",
-	      	
-			"content_html": "<p><a href=\"http://www.slashfilm.com/star-wars-story-spin-offs/\">Future Star Wars Spin-Offs Are On Hold at Lucasfilm</a></p>\n\n<p>This is so frustrating. Solo was delightful, and I was really excited about Obi-Wan.</p>\n",
-			"date_published": "2018-06-20T18:34:18-05:00",
-			"url": "http://craigmcclellan.com/2018/06/20/future-star-wars.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/20/do-i-currently.html",
-	      	
-			"content_html": "<p>Do I currently feel super cool sitting in a coffee shop editing a podcast with my iPad and an Apple Pencil? Yes. Yes I do.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/e0d15c7987.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-20T09:29:57-05:00",
-			"url": "http://craigmcclellan.com/2018/06/20/do-i-currently.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/19/introducing-the-class.html",
-	      	
-			"content_html": "<p><a href=\"http://www.theclassnerd.com/2018/06/19/introducing-the-class.html\">Introducing The Class Nerd Podcast - The Class Nerd</a></p>\n\n<p>This has been several months in the making. I’m so excited to finally share the first episode of The Class Nerd Podcast.</p>\n",
-			"date_published": "2018-06-19T15:34:29-05:00",
-			"url": "http://craigmcclellan.com/2018/06/19/introducing-the-class.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/18/the-beyoncejay-z.html",
-	      	
-			"content_html": "<p>🎵 The Beyonce/Jay Z album <a href=\"https://itunes.apple.com/us/album/id1400124394?i=1400124395&amp;at=1l3vwJx&amp;ct=microblog&amp;app=music\">is now on Apple Music</a>. Can’t wait to give this a listen this afternoon.</p>\n",
-			"date_published": "2018-06-18T13:38:19-05:00",
-			"url": "http://craigmcclellan.com/2018/06/18/the-beyoncejay-z.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/18/as-i-read.html",
-	      	
-			"content_html": "<p>As I read teaching books over the summer, I’m realizing few things bother me more than stories from a made up classroom used to illustrate a teaching strategy.</p>\n",
-			"date_published": "2018-06-18T10:36:35-05:00",
-			"url": "http://craigmcclellan.com/2018/06/18/as-i-read.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/17/fathers-day-coffee.html",
-	      	
-			"content_html": "<p>Father’s Day coffee and chocolate milk date with my oldest while Mommy and the youngest nap.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/987bad5ce5.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-17T14:43:56-05:00",
-			"url": "http://craigmcclellan.com/2018/06/17/fathers-day-coffee.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/17/being-daddy-to.html",
-	      	
-			"content_html": "<p>Being Daddy to these two is the best. I’m proud to be their father on this Father’s Day.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/fd670fd2d7.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-17T12:53:16-05:00",
-			"url": "http://craigmcclellan.com/2018/06/17/being-daddy-to.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/16/the-bad-news.html",
-	      	
-			"content_html": "<p>The bad news is I had to reset my iPad from scratch. The good news is <a href=\"http://craigmcclellan.com/2018/06/05/my-wifionly-ipad.html\">my Apple Music issue</a> is fixed. Let’s hope it stays that way.</p>\n",
-			"date_published": "2018-06-16T17:09:05-05:00",
-			"url": "http://craigmcclellan.com/2018/06/16/the-bad-news.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/15/the-wife-and.html",
-	      	
-			"content_html": "<p>The wife and I were going to go see a movie together this afternoon. We opted to stay home and binge season 2 of Queer Eye instead.</p>\n",
-			"date_published": "2018-06-15T14:14:55-05:00",
-			"url": "http://craigmcclellan.com/2018/06/15/the-wife-and.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/15/last-year-ios.html",
-	      	
-			"content_html": "<p>Last year, iOS 11 Dev Beta 2 was released 2 weeks after Beta 1, and the Public Beta was a day or two after. If that holds true this year, we should see an iOS 12 Public Beta next week. In years past, I’ve put one iPad on the beta leaving my phone and one iPad on the current version. With MeMoji though, I have a feeling it will be phone and 10.5” iPad on iOS 12, and the 12.9” staying on 11.</p>\n",
-			"date_published": "2018-06-15T11:34:33-05:00",
-			"url": "http://craigmcclellan.com/2018/06/15/last-year-ios.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/12/previously-unreleased-videos.html",
-	      	
-			"content_html": "<p><a href=\"https://blog.tombihn.com/previously-unreleased-s25-wf\">Previously unreleased videos (Part II: Synapse 25 and Western Flyer) - TOM BIHN Bags Blog</a></p>\n\n<p>I could watch these videos of people packing Tom Bihn bags all day. Related: I want all the Tom Bihn bags.</p>\n",
-			"date_published": "2018-06-12T18:18:23-05:00",
-			"url": "http://craigmcclellan.com/2018/06/12/previously-unreleased-videos.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/12/so-you-cant.html",
-	      	
-			"content_html": "<p>So you can’t login to iTunes Connect from an iOS device? Cool, cool, cool.</p>\n",
-			"date_published": "2018-06-12T11:00:50-05:00",
-			"url": "http://craigmcclellan.com/2018/06/12/so-you-cant.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/11/i-love-everything.html",
-	      	
-			"content_html": "<p>I love everything about this sign at my school.</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/60916e05b9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-11T14:40:57-05:00",
-			"url": "http://craigmcclellan.com/2018/06/11/i-love-everything.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/11/163432.html",
-	      	
-			"content_html": "<p>As someone who almost never has cash on me, vending machines that take Apple Pay feel like magic.</p>\n",
-			"date_published": "2018-06-11T11:34:32-05:00",
-			"url": "http://craigmcclellan.com/2018/06/11/163432.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/10/episodes-in-to.html",
-	      	
-			"content_html": "<p>📺 3 episodes in to Netflix’s Lost in Space, and holy cow. So good.</p>\n",
-			"date_published": "2018-06-10T16:13:38-05:00",
-			"url": "http://craigmcclellan.com/2018/06/10/episodes-in-to.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/09/moving-the-class.html",
-	      	
-			"title": "Moving The Class Nerd",
-			
-			"content_html": "<p>I have officially started the process of moving my blog, The Class Nerd, from Squarespace to Micro.blog. I have struggled with squarespace for a long time as an iOS only user, and as Micro.blog has matured as a platform, it has become more and more powerful. That, combined with the ability for me to post content directly to Micro.blog from Drafts 5, has let me to moving.</p>\n\n<p>I currently have <a href=\"https://micro.blog/theclassnerd\">@theclassnerd</a> set up here on Micro.blog, and I have just moved the domain over.</p>\n\n<p>If you are subscribed to The Class Nerd via RSS, you’ll need to use the new feed (or JSON feed). If you follow me on Micro.blog and want to continue to see my posts about education technology, you should follow <a href=\"https://micro.blog/theclassnerd\">@theclassnerd</a>. All posts via The Class Nerd will also go to <a href=\"http://twitter.com/theclassnerd\">The Class Nerd twitter account</a>.</p>\n\n<p>CraigMcClellan.com will continue as my personal blog covering everything from Apple to foster care to Star Wars. All posts about how I get my work done as a teacher using iOS will be on The Class Nerd. Follow along even if you’re not a teacher though. Hopefully it’s still useful.</p>\n\n<p>I have a lot of stuff planned for The Class Nerd in the next few weeks, and having it hosted here on Micro.blog enables a lot of that. I’m excited for what the future holds.</p>\n",
-			"date_published": "2018-06-09T17:35:19-05:00",
-			"url": "http://craigmcclellan.com/2018/06/09/moving-the-class.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/09/will-love-forever.html",
-	      	
-			"content_html": "<p>13/10 Will love forever</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/d12efbc525.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-09T16:09:57-05:00",
-			"url": "http://craigmcclellan.com/2018/06/09/will-love-forever.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/09/first-lightning-bugs.html",
-	      	
-			"content_html": "<p>First lightning bugs of the summer</p>\n\n<p><img src=\"http://craigmcclellan.com/uploads/2018/019be52eda.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-08T19:55:03-05:00",
-			"url": "http://craigmcclellan.com/2018/06/08/first-lightning-bugs.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/07/everyone-has-a.html",
-	      	
-			"content_html": "<p><a href=\"https://brenebrown.com/blog/2018/06/07/everyone-has-a-story/\">Everyone Has A Story - Brené Brown</a></p>\n\n<blockquote>\n  <p>To know pain is human. To need is human. And, no amount of money, influence, resources, or sheer determination will change our physical, emotional, and spiritual dependence on others.</p>\n\n  <p>Many of us are willing to extend a helping hand, but we’re very reluctant to reach out for help when we need it ourselves. It’s as if we’ve divided the world into “those who offer help” and “those who need help.” The truth is that we are both.  Need is the most beautiful compact between humans.</p>\n</blockquote>\n",
-			"date_published": "2018-06-07T18:54:14-05:00",
-			"url": "http://craigmcclellan.com/2018/06/07/everyone-has-a.html"
-		},
-		
-		{
-			"id": "http://craigmcclellan.micro.blog/2018/06/07/ive-written-a.html",
-	      	
-			"content_html": "<p><a href=\"https://actions.getdrafts.com/a/1LC\">I’ve written a script in Drafts 5</a> that works as a Module switcher to let you select which Workspace, keyboard, and Action list you wish to activate based on what activity you are doing in Drafts.</p>\n",
-			"date_published": "2018-06-07T13:12:44-05:00",
-			"url": "http://craigmcclellan.com/2018/06/07/ive-written-a.html"
 		}
 		
 	]
