@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta content="Craig McClellan" name="author">
+  
+  <title>Craig McClellan   - Drafts Insert Link from Safari View Controller Action </title>
+  
+  <link href="/assets/css/style.css" rel="stylesheet">
+  <link href="/assets/css/highlight.css" rel="stylesheet">
+  <link rel="stylesheet" href="/custom.css">
+
+	<link rel="shortcut icon" href="https://micro.blog/craigmcclellan/favicon.png" type="image/x-icon" />
+  <link rel="alternate" type="application/rss+xml" title="Craig McClellan" href="http://craigmcclellan.com/feed.xml" />
+  
+  <link rel="alternate" type="application/json" title="Craig McClellan" href="http://craigmcclellan.com/feed.json" />
+  <link rel="EditURI" type="application/rsd+xml" href="/rsd.xml" />
+
+  <link rel="me" href="https://micro.blog/craigmcclellan" />
+  
+  	<link rel="me" href="https://twitter.com/craigmcclellan" />
+  
+  
+  	<link rel="me" href="https://github.com/craigwmcclellan" />
+  
+  
+  <link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
+  <link rel="token_endpoint" href="https://micro.blog/indieauth/token" />
+  <link rel="micropub" href="https://micro.blog/micropub" />
+  <link rel="webmention" href="https://micro.blog/webmention" />
+  <link rel="subscribe" href="https://micro.blog/users/follow" />
+
+</head>
+<body>
+  <nav class="main-nav">
+  
+  <a class="normal" href="/"> <span class="arrow">←</span> Home</a>
+  
+
+	
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			<a href="/archive/">Archive</a>
+		
+	
+		
+			<a href="/about/">About</a>
+		
+	
+		
+			<a href="/tools-of-choice/">Tools of Choice</a>
+		
+	
+
+  <a class="cta" href="https://micro.blog/craigmcclellan" rel="me">Also on Micro.blog</a>
+</nav>
+
+  
+  <section id="wrapper">
+    <article class="h-entry post">
+  <header>
+	
+    <h1 class="p-name">Drafts Insert Link from Safari View Controller Action</h1>
+    
+    <h2 class="headline">
+      <time class="dt-published" datetime="2018-07-22 12:33:30 -0500">
+        <a class="u-url dates" href="/2018/07/22/drafts-insert-link.html">July 22, 2018</a>
+      </time>
+    </h2>
+  </header>
+  <section class="e-content post-body">
+      <p>One of my favorite features of <a href="https://itunes.apple.com/us/app/id673907758?at=1l3vwJx&amp;ct=microblog">Editorial</a> when I used it was the ability to open its internal web browser, find a website, and insert a link into the editor. This saved me so much time, and I wanted to recreate it in Drafts. This feature wasn’t possible in the exact same way, but I managed to make something that works well for me.</p>
+
+<p>You can get the script from the <a href="https://actions.getdrafts.com/a/1My">Drafts Action Directory</a>.</p>
+
+<p>There’s a lot happening in it, but essentially when you run the action, you will be prompted to select a website you want to search and the term you want to search for. Drafts will then use DuckDuckGo’s URL parameters to search for the term you entered on the website you select. This is really handy if you have particular websites you like to reference. For instance, here I often link back to other posts I’ve written here.</p>
+
+<p>To customize this, you just have to change what websites are entered in the sites object at the top. Replace the sites I have in there (like my own) with yours or another. Put the title to the left of the : (this is what will be displayed in the prompt) and the url (sans <a href="http://www.">www.</a>) to the right. If you’re not sure what any of that means, look at the script comments, and they should show you what to do.</p>
+
+<p>I have also created on selection box that will search DuckDuckGo on the whole and one where you can enter a URL you haven’t already programmed in.</p>
+
+<p>The final thing to notice is toward the bottom of the script.</p>
+
+<p>Once I find the site or article I want to link to, I tap where the URL bar would be in normal Safari and hold. This will present you with a dialog to copy the URL to your clipboard.</p>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">mdLink</span> <span class="o">=</span> <span class="nx">Action</span><span class="p">.</span><span class="nx">find</span><span class="p">(</span><span class="s2">"Markdown Link"</span><span class="p">);</span>
+<span class="nx">app</span><span class="p">.</span><span class="nx">queueAction</span><span class="p">(</span><span class="nx">mdLink</span><span class="p">,</span> <span class="nx">draft</span><span class="p">);</span>
+</code></pre>
+</div>
+
+<p>The little bit of JavaScript queues up the <a href="https://actions.getdrafts.com/a/1J2">Markdown Link action</a> which will turn the selected text in the Drafts editor into a Markdown link using a URL in your clipboard. These two actions tie together really well and make creating links to other articles super easy.</p>
+
+<p>As someone who creates links in show notes and blog posts all the time, this is going to save me a ton of time, and I hope it does for you as well.</p>
+
+  </section>
+</article>
+<section id="post-meta" class="clearfix">
+  <a href="/">
+    <img class="u-photo avatar" src="https://micro.blog/craigmcclellan/avatar.jpg">
+    <div>
+      <span class="p-author h-card dark">Craig McClellan</span>
+      <span><a href="https://micro.blog/craigmcclellan">@craigmcclellan</a></span>
+    </div>
+  </a>
+</section>
+
+  </section>
+  <footer id="footer">
+    <section id="wrapper">
+  <ul>
+    <li><a href="/feed.xml">RSS</a></li>
+    <li><a href="/feed.json">JSON Feed</a></li>
+    <li><a href="https://micro.blog/craigmcclellan" rel="me">Micro.blog</a></li>
+<!--     <li><a class="u-email" href="mailto:" rel="me">Email</a></li> -->
+  </ul>
+  <form method="get" id="search" action="https://duckduckgo.com/">
+    <input type="hidden" name="sites" value="http://craigmcclellan.com"/>
+    <input type="hidden" name="k8" value="#444444"/>
+    <input type="hidden" name="k9" value="#ee4792"/>
+    <input type="hidden" name="kt" value="h"/>
+    <input class="field" type="text" name="q" maxlength="255" placeholder="To search, type and hit Enter&hellip;"/>
+    <input type="submit" value="Search" style="display: none;" />
+  </form>
+</section>
+
+  </footer>
+  
+</body>
+</html>
