@@ -43,7 +43,7 @@ paginate_path: "/page/:num/"
 timezone: "US/Indiana-Starke"
 site_id: "1533"
 gems: ["jekyll-paginate"]
-itunes_description: "Nashville based teacher, foster parent, and tech nerd."
+itunes_description: "Nashville based teacher, foster parent, former professional musician, and tech nerd."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Craig McClellan"
