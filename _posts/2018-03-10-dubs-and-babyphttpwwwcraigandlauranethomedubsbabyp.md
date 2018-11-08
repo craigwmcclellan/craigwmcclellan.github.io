@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-10 07:41:00 -0500
+date: 2018-03-10 06:41:00 -0600
 guid: http://craigmcclellan.micro.blog/2018/03/10/dubs-and-babyphttpwwwcraigandlauranethomedubsbabyp.html
 ---
 [#Dubs and #BabyP](http://www.craigandlaura.net/home/2016/3/10/dubs-baby-p) - Craig & Laura, et. al.
