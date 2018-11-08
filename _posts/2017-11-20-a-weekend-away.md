@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-19 20:19:48 -0500
+date: 2017-11-19 19:19:48 -0600
 guid: http://craigmcclellan.micro.blog/2017/11/20/a-weekend-away.html
 ---
 A weekend away with these amazing people and no kids was so good for the soul.
