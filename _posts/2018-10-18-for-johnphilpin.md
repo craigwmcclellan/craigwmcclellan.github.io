@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-18 18:53:52 -0500
+date: 2018-10-18 17:53:52 -0600
 guid: http://craigmcclellan.micro.blog/2018/10/18/for-johnphilpin.html
 ---
 For [@JohnPhilpin](https://micro.blog/JohnPhilpin)
