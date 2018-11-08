@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-21 23:38:50 -0500
+date: 2018-10-21 22:38:50 -0600
 guid: http://craigmcclellan.micro.blog/2018/10/22/an-early-anniversary.html
 ---
 
