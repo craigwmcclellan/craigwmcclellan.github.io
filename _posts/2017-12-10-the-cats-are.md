@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-10 13:38:40 -0500
+date: 2017-12-10 12:38:40 -0600
 guid: http://craigmcclellan.micro.blog/2017/12/10/the-cats-are.html
 ---
 The cats are loving the tree.
