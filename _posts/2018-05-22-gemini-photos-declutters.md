@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-22 07:45:02 -0500
+date: 2018-05-22 06:45:02 -0600
 guid: http://craigmcclellan.micro.blog/2018/05/22/gemini-photos-declutters.html
 ---
 [Gemini Photos Declutters Your Photo Library – MacStories](https://www.macstories.net/reviews/gemini-photos-declutters-your-photo-library/)
