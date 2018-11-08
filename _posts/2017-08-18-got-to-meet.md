@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-18 01:50:24 -0500
+date: 2017-08-18 00:50:24 -0600
 guid: http://craigmcclellan.micro.blog/2017/08/18/got-to-meet.html
 ---
 Got to meet @ismh tonight. A successful interaction with someone from the internet!
