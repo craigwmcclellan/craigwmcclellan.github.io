@@ -3,7 +3,7 @@ layout: post
 title: "Spoiler Filled Thoughts on The Last Jedi"
 microblog: false
 audio: 
-date: 2017-12-15 22:04:58 -0500
+date: 2017-12-15 21:04:58 -0600
 guid: http://craigmcclellan.micro.blog/2017/12/16/spoiler-filled-thoughts.html
 ---
 This post **contains spoilers** for The Last Jedi. 
