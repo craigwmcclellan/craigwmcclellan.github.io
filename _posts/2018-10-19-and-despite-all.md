@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-19 11:11:39 -0500
+date: 2018-10-19 10:11:39 -0600
 guid: http://craigmcclellan.micro.blog/2018/10/19/and-despite-all.html
 ---
 [And Despite All Those Things, I Love It – BirchTree](https://birchtree.me/blog/and-despite-all-those-things-i-love-it/)
