@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-12 18:18:23 -0500
+date: 2018-06-12 17:18:23 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/12/previously-unreleased-videos.html
 ---
 [Previously unreleased videos (Part II: Synapse 25 and Western Flyer) - TOM BIHN Bags Blog](https://blog.tombihn.com/previously-unreleased-s25-wf)
