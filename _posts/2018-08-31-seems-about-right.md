@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-31 10:14:05 -0500
+date: 2018-08-31 09:14:05 -0600
 guid: http://craigmcclellan.micro.blog/2018/08/31/seems-about-right.html
 ---
 Seems about right.
