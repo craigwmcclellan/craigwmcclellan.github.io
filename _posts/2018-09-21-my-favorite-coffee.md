@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-21 15:49:57 -0500
+date: 2018-09-21 14:49:57 -0600
 guid: http://craigmcclellan.micro.blog/2018/09/21/my-favorite-coffee.html
 ---
 My favorite coffee shop in Nashville has a new drink called Roger the Shrubber and I’m dying.
