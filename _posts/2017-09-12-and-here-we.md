@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-11 20:33:08 -0500
+date: 2017-09-11 19:33:08 -0600
 guid: http://craigmcclellan.micro.blog/2017/09/12/and-here-we.html
 ---
 And here we go.
