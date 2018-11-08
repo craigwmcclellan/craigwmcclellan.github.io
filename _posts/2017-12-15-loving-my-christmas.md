@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-15 08:11:04 -0500
+date: 2017-12-15 07:11:04 -0600
 guid: http://craigmcclellan.micro.blog/2017/12/15/loving-my-christmas.html
 ---
 Loving my Christmas present from one of my teammates. 
