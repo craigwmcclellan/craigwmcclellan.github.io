@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-28 12:39:11 -0500
+date: 2018-09-28 11:39:11 -0600
 guid: http://craigmcclellan.micro.blog/2018/09/28/interesting-documents-being.html
 ---
 Interesting. Documents being stuck on one device has been a big barrier to me using LiquidText. Excited to try this out. 
