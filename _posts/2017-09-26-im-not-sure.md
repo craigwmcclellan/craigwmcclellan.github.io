@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-26 10:39:17 -0500
+date: 2017-09-26 09:39:17 -0600
 guid: http://craigmcclellan.micro.blog/2017/09/26/im-not-sure.html
 ---
 I'm not sure why Apple removed the tap the file name to rename functionality while in an iWork document, but I miss it.
