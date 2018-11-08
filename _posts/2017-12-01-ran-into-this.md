@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-01 13:01:59 -0500
+date: 2017-12-01 12:01:59 -0600
 guid: http://craigmcclellan.micro.blog/2017/12/01/ran-into-this.html
 ---
 Ran into this guy.
