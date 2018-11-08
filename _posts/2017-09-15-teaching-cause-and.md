@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-15 09:02:36 -0500
+date: 2017-09-15 08:02:36 -0600
 guid: http://craigmcclellan.micro.blog/2017/09/15/teaching-cause-and.html
 ---
 Teaching Cause and Effect to 2nd Graders:
