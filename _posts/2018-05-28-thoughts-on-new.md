@@ -3,7 +3,7 @@ layout: post
 title: "Thoughts on New iPad Hardware at WWDC"
 microblog: false
 audio: 
-date: 2018-05-28 10:30:00 -0500
+date: 2018-05-28 09:30:00 -0600
 guid: http://craigmcclellan.micro.blog/2018/05/28/thoughts-on-new.html
 ---
 
