@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-12 17:10:46 -0500
+date: 2018-09-12 16:10:46 -0600
 guid: http://craigmcclellan.micro.blog/2018/09/12/things-apple-announced.html
 ---
 Things Apple announced today that I will be purchasing: 0
