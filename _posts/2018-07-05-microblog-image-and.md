@@ -3,7 +3,7 @@ layout: post
 title: "Micro.blog Image and Podcast Posting with Workflow and Drafts"
 microblog: false
 audio: 
-date: 2018-07-05 13:44:43 -0500
+date: 2018-07-05 12:44:43 -0600
 guid: http://craigmcclellan.micro.blog/2018/07/05/microblog-image-and.html
 ---
 
