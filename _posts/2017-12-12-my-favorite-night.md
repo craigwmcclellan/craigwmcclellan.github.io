@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-12 00:20:05 -0500
+date: 2017-12-11 23:20:05 -0600
 guid: http://craigmcclellan.micro.blog/2017/12/12/my-favorite-night.html
 ---
 My favorite night of the Christmas season: Andrew Peterson’s Behold the Lamb Of God at The Ryman.
