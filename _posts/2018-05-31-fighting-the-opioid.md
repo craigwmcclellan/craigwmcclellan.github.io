@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-31 10:56:07 -0500
+date: 2018-05-31 09:56:07 -0600
 guid: http://craigmcclellan.micro.blog/2018/05/31/fighting-the-opioid.html
 ---
 [Fighting the opioid and foster crisis by supporting families - The Hill](http://thehill.com/blogs/congress-blog/politics/390026-fighting-the-opioid-and-foster-crisis-by-supporting-families)
