@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-12 19:03:02 -0500
+date: 2018-03-12 18:03:02 -0600
 guid: http://craigmcclellan.micro.blog/2018/03/13/i-just-came.html
 ---
 I just came home to find my wife listening to music through our Bose Soundlink Mini set right next to our HomePod. 
