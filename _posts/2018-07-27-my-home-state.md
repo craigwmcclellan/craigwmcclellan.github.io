@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-27 14:12:17 -0500
+date: 2018-07-27 13:12:17 -0600
 guid: http://craigmcclellan.micro.blog/2018/07/27/my-home-state.html
 ---
 My home state. 😭
