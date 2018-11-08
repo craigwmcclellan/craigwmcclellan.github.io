@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-14 22:22:01 -0500
+date: 2018-03-14 21:22:01 -0600
 guid: http://craigmcclellan.micro.blog/2018/03/15/daring-fireball-the.html
 ---
 [Daring Fireball: The Information on What Went Wrong With Siri](https://daringfireball.net/linked/2018/03/14/the-information-siri)
