@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-19 10:11:34 -0500
+date: 2017-08-19 09:11:34 -0600
 guid: http://craigmcclellan.micro.blog/2017/08/19/should-be-a.html
 ---
 Should be a fun morning.
