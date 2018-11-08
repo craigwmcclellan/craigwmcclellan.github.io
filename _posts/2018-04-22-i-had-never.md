@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-21 20:13:24 -0500
+date: 2018-04-21 19:13:24 -0600
 guid: http://craigmcclellan.micro.blog/2018/04/22/i-had-never.html
 ---
 I had never seen or played Fortnite, but I started watching Ninja Vegas 2018 with a friend and now I can’t stop.
