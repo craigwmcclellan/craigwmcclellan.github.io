@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-08 10:47:07 -0500
+date: 2018-10-08 09:47:07 -0600
 guid: http://craigmcclellan.micro.blog/2018/10/08/review-yoink-adds.html
 ---
 [Review: Yoink Adds Support for Latest Mojave and iOS 12 Features – MacStories](https://www.macstories.net/reviews/review-yoink-adds-support-for-the-latest-mojave-and-ios-12-features/)
