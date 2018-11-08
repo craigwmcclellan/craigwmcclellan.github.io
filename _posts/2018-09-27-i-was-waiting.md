@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-27 08:11:33 -0500
+date: 2018-09-27 07:11:33 -0600
 guid: http://craigmcclellan.micro.blog/2018/09/27/i-was-waiting.html
 ---
 I was waiting to post this because I couldn’t find the words. Naturally, my writer wife did it perfectly on her instagram:
