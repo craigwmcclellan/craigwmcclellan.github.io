@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-18 01:57:54 -0500
+date: 2017-08-18 00:57:54 -0600
 guid: http://craigmcclellan.micro.blog/2017/08/18/a-road-trip.html
 ---
 A road trip with @austinbharrison, meeting my favorite podcasters, winning a round of mini golf, changing a tire on the side of I-40 at midnight. Successful adventure.
