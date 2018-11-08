@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-23 22:41:47 -0500
+date: 2018-05-23 21:41:47 -0600
 guid: http://craigmcclellan.micro.blog/2018/05/24/top-smartphone-cameras.html
 ---
 [Top 5 Smartphone Cameras: The Blind Test! (2018) - MKBHD](https://youtu.be/oD_3wMh5kLg)
