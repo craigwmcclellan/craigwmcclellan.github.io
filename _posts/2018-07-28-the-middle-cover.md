@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-28 16:10:27 -0500
+date: 2018-07-28 15:10:27 -0600
 guid: http://craigmcclellan.micro.blog/2018/07/28/the-middle-cover.html
 ---
 [The Middle (Cover) // Zedd, Maren Morris, Grey](https://m.youtube.com/watch?v=4L2VB3quhH0)
