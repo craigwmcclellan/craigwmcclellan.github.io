@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-17 14:43:56 -0500
+date: 2018-06-17 13:43:56 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/17/fathers-day-coffee.html
 ---
 Father’s Day coffee and chocolate milk date with my oldest while Mommy and the youngest nap.
