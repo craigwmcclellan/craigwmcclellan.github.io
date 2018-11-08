@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-26 18:43:30 -0500
+date: 2018-06-26 17:43:30 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/26/i-wont-repost.html
 ---
 I won't repost every episode of [@theclassnerd](https://micro.blog/theclassnerd) podcast here, but it's new and I'm excited. Episode 2 is live!
