@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-07 13:34:50 -0500
+date: 2018-09-07 12:34:50 -0600
 guid: http://craigmcclellan.micro.blog/2018/09/07/my-heart-photo.html
 ---
 
