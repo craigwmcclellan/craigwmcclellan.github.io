@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-01 18:29:39 -0500
+date: 2018-03-01 17:29:39 -0600
 guid: http://craigmcclellan.micro.blog/2018/03/01/that-was-some.html
 ---
 That was some good timing [@chrislopez](https://micro.blog/chrislopez).
