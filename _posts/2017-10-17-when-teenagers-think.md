@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-17 12:56:01 -0500
+date: 2017-10-17 11:56:01 -0600
 guid: http://craigmcclellan.micro.blog/2017/10/17/when-teenagers-think.html
 ---
 When teenagers think it’s funny to vandalize an elementary school playground. 🤦🏻‍♂️😡
