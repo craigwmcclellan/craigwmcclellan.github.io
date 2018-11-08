@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-14 19:36:04 -0500
+date: 2017-11-14 18:36:04 -0600
 guid: http://craigmcclellan.micro.blog/2017/11/15/microblog-photo-challenge.html
 ---
 Micro.blog Photo Challenge Day 4: Up Close
