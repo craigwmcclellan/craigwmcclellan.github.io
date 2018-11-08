@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-19 09:57:00 -0500
+date: 2018-10-19 08:57:00 -0600
 guid: http://craigmcclellan.micro.blog/2018/10/19/sean-mcconnell-secondhand.html
 ---
 🎵 [Sean McConnell - Secondhand Smoke](https://itunes.apple.com/us/album/id1438911218?i=1438911241&at=1l3vwJx&ct=microblog&app=music)
