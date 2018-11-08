@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-14 20:55:41 -0500
+date: 2018-02-14 19:55:41 -0600
 guid: http://craigmcclellan.micro.blog/2018/02/15/i-very-rarely.html
 ---
 I very rarely buy music anymore. When I do, it's usually from a local artist I want to support with more than my Apple Music subscription.
