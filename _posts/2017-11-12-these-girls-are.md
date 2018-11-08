@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-12 15:00:49 -0500
+date: 2017-11-12 14:00:49 -0600
 guid: http://craigmcclellan.micro.blog/2017/11/12/these-girls-are.html
 ---
 These girls are the best.
