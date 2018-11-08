@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-16 22:14:07 -0500
+date: 2018-09-16 21:14:07 -0600
 guid: http://craigmcclellan.micro.blog/2018/09/17/well-robbyburns-did.html
 ---
 Well, [@robbyburns](https://micro.blog/robbyburns) did it. He officially convinced me to move my task management to OmniFocus 3 from Things 3.
