@@ -3,7 +3,7 @@ layout: post
 title: "Family Vacation 2018"
 microblog: false
 audio: 
-date: 2018-06-02 08:46:12 -0500
+date: 2018-06-02 07:46:12 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/02/family-vacation.html
 ---
 2018-05-26
