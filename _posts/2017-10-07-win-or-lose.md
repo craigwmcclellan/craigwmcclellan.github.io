@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-07 10:32:57 -0500
+date: 2017-10-07 09:32:57 -0600
 guid: http://craigmcclellan.micro.blog/2017/10/07/win-or-lose.html
 ---
 Win or lose, rain or shine, I love a Saturday on the plains (but please win and don’t rain). War Eagle.
