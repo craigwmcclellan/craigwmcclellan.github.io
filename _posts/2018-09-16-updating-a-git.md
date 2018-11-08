@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-16 12:46:16 -0500
+date: 2018-09-16 11:46:16 -0600
 guid: http://craigmcclellan.micro.blog/2018/09/16/updating-a-git.html
 ---
 Updating a Git repository via Siri? Holy crap. This is the future.
