@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-18 15:16:10 -0500
+date: 2017-11-18 14:16:10 -0600
 guid: http://craigmcclellan.micro.blog/2017/11/18/if-youre-going.html
 ---
 If you’re going to graffiti a bathroom, please do it with correct grammar.
