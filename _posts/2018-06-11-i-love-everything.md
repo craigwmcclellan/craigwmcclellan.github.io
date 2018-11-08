@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-11 14:40:57 -0500
+date: 2018-06-11 13:40:57 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/11/i-love-everything.html
 ---
 I love everything about this sign at my school.
