@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-25 16:45:56 -0500
+date: 2018-06-25 15:45:56 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/25/i-make-great.html
 ---
 I make great decisions with my only iPhone. 
