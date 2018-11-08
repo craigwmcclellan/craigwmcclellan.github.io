@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-07 11:52:09 -0500
+date: 2017-10-07 10:52:09 -0600
 guid: http://craigmcclellan.micro.blog/2017/10/07/turns-out-attending.html
 ---
 Turns out attending a football game gets my heart up.
