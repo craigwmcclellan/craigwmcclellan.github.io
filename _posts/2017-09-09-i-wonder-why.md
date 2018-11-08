@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-08 19:13:07 -0500
+date: 2017-09-08 18:13:07 -0600
 guid: http://craigmcclellan.micro.blog/2017/09/09/i-wonder-why.html
 ---
 I wonder why...
