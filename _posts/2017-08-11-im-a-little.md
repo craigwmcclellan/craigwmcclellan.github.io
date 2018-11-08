@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-10 21:07:17 -0500
+date: 2017-08-10 20:07:17 -0600
 guid: http://craigmcclellan.micro.blog/2017/08/11/im-a-little.html
 ---
 I’m a little too excited to open this thing up. Also, I went with Ungeniused in the “What podcast do I support when I order my Casper?” game. 
