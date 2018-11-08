@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-13 19:29:15 -0500
+date: 2018-07-13 18:29:15 -0600
 guid: http://craigmcclellan.micro.blog/2018/07/14/members-night-at.html
 ---
 Members night at the Nashville Zoo. The animals are way more active in the evening.
