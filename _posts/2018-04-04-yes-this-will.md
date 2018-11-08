@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-04 07:21:56 -0500
+date: 2018-04-04 06:21:56 -0600
 guid: http://craigmcclellan.micro.blog/2018/04/04/yes-this-will.html
 ---
 YES. This will get me back in this app more. I like it so much better than stock workouts, but not having all workout types kept me out.
