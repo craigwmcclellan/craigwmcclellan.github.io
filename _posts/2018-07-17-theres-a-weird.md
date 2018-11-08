@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-17 11:34:29 -0500
+date: 2018-07-17 10:34:29 -0600
 guid: http://craigmcclellan.micro.blog/2018/07/17/theres-a-weird.html
 ---
 There's a weird tension in foster parenting of how much to share. On one hand, our story is not actually ours to share, but our children's. On the other hand we want to encourage others who are in the middle of or considering the same journey.
