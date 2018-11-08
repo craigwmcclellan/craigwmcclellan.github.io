@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-17 22:01:22 -0500
+date: 2018-10-17 21:01:22 -0600
 guid: http://craigmcclellan.micro.blog/2018/10/18/today-i-visited.html
 ---
 Today, I visited Grandmother and drove her around in Grandpa’s old pickup we used to go on adventures in. It was surreal to be behind the wheel and him not be there, but it brought back so many sweet memories.
