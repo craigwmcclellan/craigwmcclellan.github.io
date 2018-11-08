@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-20 09:29:57 -0500
+date: 2018-06-20 08:29:57 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/20/do-i-currently.html
 ---
 Do I currently feel super cool sitting in a coffee shop editing a podcast with my iPad and an Apple Pencil? Yes. Yes I do.
