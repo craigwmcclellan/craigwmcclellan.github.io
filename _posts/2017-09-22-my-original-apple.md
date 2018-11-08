@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-22 16:18:37 -0500
+date: 2017-09-22 15:18:37 -0600
 guid: http://craigmcclellan.micro.blog/2017/09/22/my-original-apple.html
 ---
 My original Apple Watch on its first day of duty and its last. It's been with me as I started teaching at my school, became a dad, and started exercising. I'm oddly sentimental right now.
