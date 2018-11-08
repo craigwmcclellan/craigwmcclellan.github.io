@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-24 16:25:50 -0500
+date: 2018-01-24 15:25:50 -0600
 guid: http://craigmcclellan.micro.blog/2018/01/24/doing-hour-of.html
 ---
 Doing Hour of Code with one of my students after school today.
