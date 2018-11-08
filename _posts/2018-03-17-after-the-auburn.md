@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-16 22:37:02 -0500
+date: 2018-03-16 21:37:02 -0600
 guid: http://craigmcclellan.micro.blog/2018/03/17/after-the-auburn.html
 ---
 After the Auburn win, I didn’t expect March Madness to feel so bad on night 2.
