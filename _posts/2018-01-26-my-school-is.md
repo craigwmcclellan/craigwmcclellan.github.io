@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-26 15:07:31 -0500
+date: 2018-01-26 14:07:31 -0600
 guid: http://craigmcclellan.micro.blog/2018/01/26/my-school-is.html
 ---
 My school is having Passport Day today in conjunction with Vanderbilt Fellows. People from all over the world are sharing about their home countries with my 2nd graders. I love students having a global perspective.
