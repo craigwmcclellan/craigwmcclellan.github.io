@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-26 16:07:33 -0500
+date: 2018-07-26 15:07:33 -0600
 guid: http://craigmcclellan.micro.blog/2018/07/26/now-more-than.html
 ---
 Now more than ever.
