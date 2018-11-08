@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-23 11:21:08 -0500
+date: 2017-12-23 10:21:08 -0600
 guid: http://craigmcclellan.micro.blog/2017/12/23/christmas-with-just.html
 ---
 Christmas with just our family this morning. Rain and cold weren’t keeping us inside.
