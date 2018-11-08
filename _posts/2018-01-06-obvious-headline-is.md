@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-06 14:00:45 -0500
+date: 2018-01-06 13:00:45 -0600
 guid: http://craigmcclellan.micro.blog/2018/01/06/obvious-headline-is.html
 ---
 Obvious headline is obvious.
