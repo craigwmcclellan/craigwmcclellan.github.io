@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-29 11:14:09 -0500
+date: 2018-05-29 10:14:09 -0600
 guid: http://craigmcclellan.micro.blog/2018/05/29/everyone-needs-to.html
 ---
 [Everyone Needs to Calm Down About Solo's Box Office Performance](https://io9.gizmodo.com/everyone-needs-to-calm-down-about-solos-box-office-perf-1826387395)
