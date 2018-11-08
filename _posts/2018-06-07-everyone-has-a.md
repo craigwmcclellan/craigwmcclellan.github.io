@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-07 18:54:14 -0500
+date: 2018-06-07 17:54:14 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/07/everyone-has-a.html
 ---
 [Everyone Has A Story - Brené Brown](https://brenebrown.com/blog/2018/06/07/everyone-has-a-story/)
