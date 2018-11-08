@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-29 23:05:05 -0500
+date: 2017-09-29 22:05:05 -0600
 guid: http://craigmcclellan.micro.blog/2017/09/30/i-really-wish.html
 ---
 I really wish the explorer face showed *something* in the cellular indicator area when the watch isn’t using cellular.
