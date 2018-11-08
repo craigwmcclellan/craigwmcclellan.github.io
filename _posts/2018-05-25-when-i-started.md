@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-25 09:51:10 -0500
+date: 2018-05-25 08:51:10 -0600
 guid: http://craigmcclellan.micro.blog/2018/05/25/when-i-started.html
 ---
 When I started teaching, all I wanted was to teach 2nd Grade at this school. It was a huge moment the first time I stepped into this room and it was **my** 2nd Grade room. 3 years later I’m moving out and up to 3rd grade. New adventures will be fun, but this room will be missed.
