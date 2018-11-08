@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-07 13:37:00 -0500
+date: 2018-04-07 12:37:00 -0600
 guid: http://craigmcclellan.micro.blog/2018/04/07/i-dont-remember.html
 ---
 I don’t remember the last time I’ve gotten to record guitar and bass tracks. This has been a fun afternoon.
