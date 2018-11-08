@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-29 13:00:39 -0500
+date: 2017-09-29 12:00:39 -0600
 guid: http://craigmcclellan.micro.blog/2017/09/29/nd-grader-in.html
 ---
 2nd Grader in response to seeing this guy in the park by our playground:
