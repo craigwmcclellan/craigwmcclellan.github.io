@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-12 20:04:21 -0500
+date: 2017-11-12 19:04:21 -0600
 guid: http://craigmcclellan.micro.blog/2017/11/13/microblog-photo-challenge.html
 ---
 Micro.blog Photo Challenge Day 2: Tasty. Congrats on your small group bake-off win @austinbharrison.
