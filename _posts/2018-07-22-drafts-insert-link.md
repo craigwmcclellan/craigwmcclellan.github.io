@@ -3,7 +3,7 @@ layout: post
 title: "Drafts Insert Link from Safari View Controller Action"
 microblog: false
 audio: 
-date: 2018-07-22 12:33:30 -0500
+date: 2018-07-22 11:33:30 -0600
 guid: http://craigmcclellan.micro.blog/2018/07/22/drafts-insert-link.html
 ---
 
