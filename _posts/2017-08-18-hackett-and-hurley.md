@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-17 21:38:07 -0500
+date: 2017-08-17 20:38:07 -0600
 guid: http://craigmcclellan.micro.blog/2017/08/18/hackett-and-hurley.html
 ---
 Hackett and Hurley
