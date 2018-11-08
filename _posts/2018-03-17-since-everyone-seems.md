@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-16 22:26:18 -0500
+date: 2018-03-16 21:26:18 -0600
 guid: http://craigmcclellan.micro.blog/2018/03/17/since-everyone-seems.html
 ---
 Since everyone seems to be in a home screen sharing mood tonight.
