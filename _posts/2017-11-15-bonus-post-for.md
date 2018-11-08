@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-14 23:01:28 -0500
+date: 2017-11-14 22:01:28 -0600
 guid: http://craigmcclellan.micro.blog/2017/11/15/bonus-post-for.html
 ---
 Bonus post for today: Up close with my girl Macy.
