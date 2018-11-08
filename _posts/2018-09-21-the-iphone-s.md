@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-20 22:26:04 -0500
+date: 2018-09-20 21:26:04 -0600
 guid: http://craigmcclellan.micro.blog/2018/09/21/the-iphone-s.html
 ---
 [The iPhone 4S – MacStories](https://www.macstories.net/iphone/the-iphone-4s/)
