@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-08 19:55:03 -0500
+date: 2018-06-08 18:55:03 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/09/first-lightning-bugs.html
 ---
 First lightning bugs of the summer
