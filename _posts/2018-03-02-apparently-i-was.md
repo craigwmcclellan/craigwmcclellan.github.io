@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-02 13:28:39 -0500
+date: 2018-03-02 12:28:39 -0600
 guid: http://craigmcclellan.micro.blog/2018/03/02/apparently-i-was.html
 ---
 Apparently I was ready to take chances, get messy, and make mistakes during our team meeting today.
