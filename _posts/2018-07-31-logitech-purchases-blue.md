@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-31 10:52:13 -0500
+date: 2018-07-31 09:52:13 -0600
 guid: http://craigmcclellan.micro.blog/2018/07/31/logitech-purchases-blue.html
 ---
 [Logitech Purchases Blue Microphones to Better Serve Gamers, Podcasters, and More – MacStories](https://www.macstories.net/linked/logitech-purchases-blue-microphones-to-better-serve-gamers-podcasters-and-more/)
