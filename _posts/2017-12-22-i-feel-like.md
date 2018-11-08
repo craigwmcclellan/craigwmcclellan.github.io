@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-22 11:43:27 -0500
+date: 2017-12-22 10:43:27 -0600
 guid: http://craigmcclellan.micro.blog/2017/12/22/i-feel-like.html
 ---
 I feel like I should have my official Dad card now that I’ve assembled bikes for Christmas.
