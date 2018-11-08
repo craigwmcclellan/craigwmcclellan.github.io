@@ -3,7 +3,7 @@ layout: post
 title: "Spring Break Date Day"
 microblog: false
 audio: 
-date: 2018-04-06 16:40:20 -0500
+date: 2018-04-06 15:40:20 -0600
 guid: http://craigmcclellan.micro.blog/2018/04/06/spring-break-date.html
 ---
 
