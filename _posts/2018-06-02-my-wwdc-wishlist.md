@@ -3,7 +3,7 @@ layout: post
 title: "My WWDC Wishlist"
 microblog: false
 audio: 
-date: 2018-06-02 07:55:15 -0500
+date: 2018-06-02 06:55:15 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/02/my-wwdc-wishlist.html
 ---
 
