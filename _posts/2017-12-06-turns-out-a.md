@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-05 20:13:22 -0500
+date: 2017-12-05 19:13:22 -0600
 guid: http://craigmcclellan.micro.blog/2017/12/06/turns-out-a.html
 ---
 Turns out, a 3.5 and 2-year-old make getting a tree decorated way more difficult. It’s finally up though!
