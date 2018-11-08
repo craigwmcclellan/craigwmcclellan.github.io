@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-09 14:40:45 -0500
+date: 2018-03-09 13:40:45 -0600
 guid: http://craigmcclellan.micro.blog/2018/03/09/sean-mcconnell-ghost.html
 ---
 🎵 [Sean McConnell - Ghost Town](https://itunes.apple.com/us/album/ghost-town-acoustic-version/1270845104?i=1270845117&uo=4&app=music&at=1l3vwJx&ct=microblog)
