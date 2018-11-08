@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-09 18:09:06 -0500
+date: 2018-02-09 17:09:06 -0600
 guid: http://craigmcclellan.micro.blog/2018/02/09/daddy-i-wanna.html
 ---
 “Daddy, I wanna help you work.”
