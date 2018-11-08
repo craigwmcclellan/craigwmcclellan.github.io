@@ -3,7 +3,7 @@ layout: post
 title: "Date Night"
 microblog: false
 audio: 
-date: 2018-03-23 19:15:04 -0500
+date: 2018-03-23 18:15:04 -0600
 guid: http://craigmcclellan.micro.blog/2018/03/24/date-night.html
 ---
 
