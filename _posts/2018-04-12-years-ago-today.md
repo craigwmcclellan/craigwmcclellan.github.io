@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-12 10:46:27 -0500
+date: 2018-04-12 09:46:27 -0600
 guid: http://craigmcclellan.micro.blog/2018/04/12/years-ago-today.html
 ---
 2 years ago today, the world lost the incredible Dr. Karyn Purvis. The [Karyn Purvis Institute of Child Development](https://child.tcu.edu/remembering-dr-purvis/) has a great tribute to her on their website today.
