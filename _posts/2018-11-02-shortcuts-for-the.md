@@ -3,7 +3,7 @@ layout: post
 title: "Shortcuts for the Masses"
 microblog: false
 audio: 
-date: 2018-11-02 10:00:44 -0500
+date: 2018-11-02 09:00:44 -0600
 guid: http://craigmcclellan.micro.blog/2018/11/02/shortcuts-for-the.html
 ---
 
