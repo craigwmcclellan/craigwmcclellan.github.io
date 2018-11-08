@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-08 16:01:55 -0500
+date: 2018-10-08 15:01:55 -0600
 guid: http://craigmcclellan.micro.blog/2018/10/08/never-been-a.html
 ---
 <a href="http://craigmcclellan.com/uploads/2018/251a2687ff.jpg"><img src="http://craigmcclellan.com/uploads/2018/251a2687ff.jpg" width="600" height="449" style="height: auto;" class="sunlit_image" /></a>
