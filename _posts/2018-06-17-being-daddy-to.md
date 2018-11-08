@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-17 12:53:16 -0500
+date: 2018-06-17 11:53:16 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/17/being-daddy-to.html
 ---
 Being Daddy to these two is the best. I’m proud to be their father on this Father’s Day.
