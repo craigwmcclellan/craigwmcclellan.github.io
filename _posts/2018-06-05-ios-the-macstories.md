@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-04 21:21:56 -0500
+date: 2018-06-04 20:21:56 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/05/ios-the-macstories.html
 ---
 [iOS 12: The MacStories Overview – MacStories](https://www.macstories.net/news/ios-12-the-macstories-overview/)
