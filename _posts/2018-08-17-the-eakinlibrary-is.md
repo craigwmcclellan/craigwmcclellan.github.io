@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-17 11:19:49 -0500
+date: 2018-08-17 10:19:49 -0600
 guid: http://craigmcclellan.micro.blog/2018/08/17/the-eakinlibrary-is.html
 ---
 The @eakinlibrary is cooler than yours. 
