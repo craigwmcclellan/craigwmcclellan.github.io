@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-16 10:28:35 -0500
+date: 2018-02-16 09:28:35 -0600
 guid: http://craigmcclellan.micro.blog/2018/02/16/so-proud-of.html
 ---
 So proud of my students giving their Black History Month presentations today. We loved celebrating the contributions of these great Americans.
