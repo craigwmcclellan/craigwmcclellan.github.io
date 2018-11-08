@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-27 13:13:14 -0500
+date: 2018-10-27 12:13:14 -0600
 guid: http://craigmcclellan.micro.blog/2018/10/27/the-weather-was.html
 ---
 The weather was terrible, but we went to the Dia de los Muertos celebration at Cheekwood today. My family is pretty adorable.
