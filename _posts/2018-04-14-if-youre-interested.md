@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-14 11:28:31 -0500
+date: 2018-04-14 10:28:31 -0600
 guid: http://craigmcclellan.micro.blog/2018/04/14/if-youre-interested.html
 ---
 If you're interested in edtech and you aren't reading Bradley Chambers's weekly column in 9to5Mac, you're missing out. [Today's post](https://9to5mac.com/2018/04/14/making-the-grade-mac-repairability/) was a great one.
