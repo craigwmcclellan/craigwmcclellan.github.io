@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-10-29 06:58:38 -0500
+date: 2017-10-29 05:58:38 -0600
 guid: http://craigmcclellan.micro.blog/2017/10/29/truth-carrotapp.html
 ---
 Truth @CARROT_app.
