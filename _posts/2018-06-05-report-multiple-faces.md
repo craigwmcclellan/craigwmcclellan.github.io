@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-05 11:03:45 -0500
+date: 2018-06-05 10:03:45 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/05/report-multiple-faces.html
 ---
 [Report: Multiple faces for Face ID, and Face ID for iPad - Six Colors](https://sixcolors.com/post/2018/06/report-multiple-faces-for-face-id-and-face-id-for-ipad/)
