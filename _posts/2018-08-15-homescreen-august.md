@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-14 19:27:51 -0500
+date: 2018-08-14 18:27:51 -0600
 guid: http://craigmcclellan.micro.blog/2018/08/15/homescreen-august.html
 ---
 Homescreen August 14, 2018
