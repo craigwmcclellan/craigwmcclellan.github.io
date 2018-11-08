@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-31 11:51:13 -0500
+date: 2018-01-31 10:51:13 -0600
 guid: http://craigmcclellan.micro.blog/2018/01/31/apps-and-cloud.html
 ---
 [Apps and Cloud are redefining Computing – Tech.pinions](https://techpinions.com/apps-and-cloud-are-redefining-computing/52131)
