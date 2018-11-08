@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-16 13:32:02 -0500
+date: 2018-04-16 12:32:02 -0600
 guid: http://craigmcclellan.micro.blog/2018/04/16/how-to-actually.html
 ---
 [How to actually get work done on an iPad](https://www.engadget.com/2018/04/12/ipad-laptop-replacement/) -- Engadget
