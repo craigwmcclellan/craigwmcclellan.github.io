@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-26 10:00:44 -0500
+date: 2017-08-26 09:00:44 -0600
 guid: http://craigmcclellan.micro.blog/2017/08/26/when-mommys-out.html
 ---
 When Mommy’s out of town, we go to the zoo.
