@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-05 15:56:31 -0500
+date: 2017-11-05 14:56:31 -0600
 guid: http://craigmcclellan.micro.blog/2017/11/05/since-i-cant.html
 ---
 Since I can’t show off photos of my kids, the cats will have to do. Portrait mode on the X is crazy good.
