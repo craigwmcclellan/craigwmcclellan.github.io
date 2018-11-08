@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-03 18:52:32 -0500
+date: 2018-09-03 17:52:32 -0600
 guid: http://craigmcclellan.micro.blog/2018/09/03/we-all-took.html
 ---
 
