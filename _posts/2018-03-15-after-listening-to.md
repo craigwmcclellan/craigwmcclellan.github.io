@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-14 22:20:01 -0500
+date: 2018-03-14 21:20:01 -0600
 guid: http://craigmcclellan.micro.blog/2018/03/15/after-listening-to.html
 ---
 After listening to [today's episode of Connected](https://overcast.fm/+FXx7tKLrA/02:12), I want to throw out my guesses for what Apple's laptop line will look like if this new rumored 13" MacBook Air comes out.
