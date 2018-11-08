@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-25 12:14:56 -0500
+date: 2018-07-25 11:14:56 -0600
 guid: http://craigmcclellan.micro.blog/2018/07/25/top-golf-with.html
 ---
 Top golf with friends is what summer is all about. Also, my wife destroyed us all on her first time.
