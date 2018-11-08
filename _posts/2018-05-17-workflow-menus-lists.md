@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-17 13:28:17 -0500
+date: 2018-05-17 12:28:17 -0600
 guid: http://craigmcclellan.micro.blog/2018/05/17/workflow-menus-lists.html
 ---
 [Workflow: Menus, Lists & Dictionaries - Rosemary Orchard](https://www.rosemaryorchard.com/blog/workflow-menus-lists-dictionaries)
