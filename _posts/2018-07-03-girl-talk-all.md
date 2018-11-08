@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-03 09:53:09 -0500
+date: 2018-07-03 08:53:09 -0600
 guid: http://craigmcclellan.micro.blog/2018/07/03/girl-talk-all.html
 ---
 🎵 [GIRL TALK - ALL DAY](http://www.illegal-art.net/allday/)
