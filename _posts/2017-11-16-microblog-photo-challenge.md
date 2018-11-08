@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-11-16 18:58:24 -0500
+date: 2017-11-16 17:58:24 -0600
 guid: http://craigmcclellan.micro.blog/2017/11/16/microblog-photo-challenge.html
 ---
 Micro.blog Photo Challenge Day 6: Seasonal. It’s finally hoodie season, and the Upgrade hoodie is my favorite. 
