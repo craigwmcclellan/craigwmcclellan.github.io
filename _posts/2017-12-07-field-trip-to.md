@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-07 11:37:26 -0500
+date: 2017-12-07 10:37:26 -0600
 guid: http://craigmcclellan.micro.blog/2017/12/07/field-trip-to.html
 ---
 Field trip to Nashville’s Adventure Science Center.
