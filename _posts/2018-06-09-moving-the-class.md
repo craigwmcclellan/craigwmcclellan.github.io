@@ -3,7 +3,7 @@ layout: post
 title: "Moving The Class Nerd"
 microblog: false
 audio: 
-date: 2018-06-09 17:35:19 -0500
+date: 2018-06-09 16:35:19 -0600
 guid: http://craigmcclellan.micro.blog/2018/06/09/moving-the-class.html
 ---
 I have officially started the process of moving my blog, The Class Nerd, from Squarespace to Micro.blog. I have struggled with squarespace for a long time as an iOS only user, and as Micro.blog has matured as a platform, it has become more and more powerful. That, combined with the ability for me to post content directly to Micro.blog from Drafts 5, has let me to moving.
